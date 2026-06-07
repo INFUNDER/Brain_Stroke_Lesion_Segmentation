@@ -19,8 +19,8 @@ plt.rcParams.update({
 
 WORKSPACE_DIR = "/home/ronit.28010/Brain_Stroke"
 RESULTS_DIR = os.path.join(WORKSPACE_DIR, "mamba_results/results")
-OUTPUT_CONVERGENCE = os.path.join(WORKSPACE_DIR, "learning_curves.png")
-OUTPUT_TUNING = os.path.join(WORKSPACE_DIR, "cc_threshold_tuning.png")
+OUTPUT_CONVERGENCE = os.path.join(WORKSPACE_DIR, "figures", "learning_curves.png")
+OUTPUT_TUNING = os.path.join(WORKSPACE_DIR, "figures", "cc_threshold_tuning.png")
 
 # =============================================================================
 # CHART 1: 5-FOLD CONVERGENCE CURVES

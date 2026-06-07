@@ -26,7 +26,7 @@ WORKSPACE_DIR = "/home/ronit.28010/Brain_Stroke"
 DATA_DIR = os.path.join(WORKSPACE_DIR, "ISLES2022_Formatted")
 CACHE_DIR = os.path.join(WORKSPACE_DIR, "mamba_results/non_leaked_probs")
 CKPT_PATH = os.path.join(WORKSPACE_DIR, "checkpoints/best_metric_model.pth")
-OUTPUT_PATH = os.path.join(WORKSPACE_DIR, "lesion_predictions_comparison.png")
+OUTPUT_PATH = os.path.join(WORKSPACE_DIR, "figures", "lesion_predictions_comparison.png")
 
 # Select a representative case
 # Case 0047 has a clean, medium-sized lesion (11,501 voxels)

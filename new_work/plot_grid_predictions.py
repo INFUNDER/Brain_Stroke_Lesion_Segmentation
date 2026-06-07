@@ -26,8 +26,8 @@ DATA_DIR = os.path.join(WORKSPACE_DIR, "ISLES2022_Formatted")
 CACHE_DIR = os.path.join(WORKSPACE_DIR, "mamba_results/non_leaked_probs")
 CKPT_PATH = os.path.join(WORKSPACE_DIR, "checkpoints/best_metric_model.pth")
 
-UNETR_GRID_PATH = os.path.join(WORKSPACE_DIR, "unetr_grid_predictions.png")
-MAMBA_GRID_PATH = os.path.join(WORKSPACE_DIR, "mamba_grid_predictions.png")
+UNETR_GRID_PATH = os.path.join(WORKSPACE_DIR, "figures", "unetr_grid_predictions.png")
+MAMBA_GRID_PATH = os.path.join(WORKSPACE_DIR, "figures", "mamba_grid_predictions.png")
 
 # 3 Subjects representing different stroke lesion shapes & sizes
 SUBJECTS = ["sub-strokecase0047", "sub-strokecase0246", "sub-strokecase0222"]

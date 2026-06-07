@@ -5,8 +5,8 @@ import matplotlib.patches as patches
 from matplotlib.path import Path
 
 WORKSPACE_DIR = "/home/ronit.28010/Brain_Stroke"
-OUTPUT_UNETR = os.path.join(WORKSPACE_DIR, "unetr_architecture.png")
-OUTPUT_MAMBA = os.path.join(WORKSPACE_DIR, "mamba_unet_architecture.png")
+OUTPUT_UNETR = os.path.join(WORKSPACE_DIR, "figures", "unetr_architecture.png")
+OUTPUT_MAMBA = os.path.join(WORKSPACE_DIR, "figures", "mamba_unet_architecture.png")
 
 # Set font styling for diagrams
 plt.rcParams.update({
