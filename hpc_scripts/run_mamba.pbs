@@ -1,0 +1,16 @@
+#!/bin/bash
+#PBS -N mamba_unet
+#PBS -q gpu
+#PBS -l select=1:ncpus=8:ngpus=1:mem=64g
+#PBS -l walltime=72:00:00
+#PBS -j oe
+
+cd $PBS_O_WORKDIR
+
+source /home/soft/anaconda3/etc/profile.d/conda.sh
+conda activate cod-gpu
+module load cuda
+
+export CUDA_VISIBLE_DEVICES=1
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+python train_mamba_13.py

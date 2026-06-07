@@ -1,0 +1,29 @@
+#!/bin/bash
+#PBS -N Install_Mamba_GPU
+#PBS -l select=1:ncpus=4:ngpus=1:mem=16gb
+#PBS -l walltime=00:30:00
+#PBS -q gpu
+#PBS -j oe
+
+# --- 1. Load Modules ---
+module purge
+module load cuda/12.8
+
+# --- 2. Activate Conda Environment ---
+source ~/.bashrc
+conda activate cod-gpu
+
+# --- 3. Go to Directory ---
+cd $PBS_O_WORKDIR
+
+echo "🚀 Starting Clean Installation..."
+
+# --- 4. Install Mamba (Offline, No Isolation) ---
+# Ab PyTorch theek hai, toh ye aaram se compile ho jayega
+echo "📦 Installing Causal Conv1d..."
+pip install ./mamba_packages/causal_conv1d*.tar.gz --no-build-isolation --no-deps --no-index --find-links=./mamba_packages
+
+echo "🐍 Installing Mamba SSM..."
+pip install ./mamba_packages/mamba_ssm*.tar.gz --no-build-isolation --no-deps --no-index --find-links=./mamba_packages
+
+echo "✅ Installation Complete!"

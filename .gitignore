@@ -1,0 +1,37 @@
+# Datasets & Formatted Volumes
+ISLES2022_Formatted/
+cache_preprocessed/
+isless2022dataset/
+
+# Model Checkpoints & Weights
+checkpoints/
+
+# Predictions & Output Files
+ensemble_outputs/
+mamba_predictions.zip
+mamba_results/
+mamba_results_v5/
+runs/
+
+# HPC & PBS Job Scheduler Logs
+pbs_logs/
+*.o[0-9]*
+*.e[0-9]*
+
+# Python caching & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+mamba_packages/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# IDE / OS metadata
+.vscode/
+.idea/
+.DS_Store
