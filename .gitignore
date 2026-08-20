@@ -35,3 +35,12 @@ env/
 .vscode/
 .idea/
 .DS_Store
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
