@@ -55,7 +55,16 @@ Score a model's out-of-fold predictions once all five folds are done:
 python -m strokebench.evaluate --model nnunet_long
 ```
 
-Task lists in `hpc/tasks/`: `ref_nnunet_long.txt`, `main_a.txt`, `main_b.txt` (the three high-cost models) and `ref_resenc_long.txt` were all submitted on 2026-11-15; `tier2_cheap.txt` (protocol-shift folds and replicate runs for the low-cost models) on 2026-11-18.
+Task lists in `hpc/tasks/`: `ref_nnunet_long.txt`, `main_a.txt`, `main_b.txt` (the three high-cost models) and `ref_resenc_long.txt` were all submitted on 2026-11-15; `tier2_cheap.txt` (protocol-shift folds and replicate runs for the low-cost models) on 2026-11-18; `tier2_omnimamba.txt` (OmniMamba protocol-shift folds 5-7) on 2026-11-22.
+
+Analyses (after scoring):
+
+```bash
+python -m strokebench.analyze                       # backbone comparison -> results/comparison_dwi_adc.json
+python -m strokebench.shift                         # protocol shift -> results/shift_dwi_adc.json
+python -m strokebench.volumes --models nnunet       # conformal volume intervals -> results/volumes_<model>.json
+python -m strokebench.adaptive                      # adaptive intervals -> results/adaptive_volumes.json
+```
 
 ## Cluster notes
 
