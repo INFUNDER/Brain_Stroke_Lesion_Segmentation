@@ -76,7 +76,6 @@ Machine-readable results are in [`revision/results/`](revision/results/).
 | [`revision/`](revision/) | **The current study.** Code, protocol, audit, job scripts, tests and results. See [`revision/README.md`](revision/README.md) |
 | `revision/strokebench/` | Networks, nnU-Net trainers, metrics, folds, statistics, conformal intervals |
 | `revision/results/` | Per-subject scores, model comparison, protocol-shift and volume analyses |
-| `paper.tex`, `paper.pdf` | Manuscript of the first version. **Its results are invalid** (see above) |
 | `new_work/`, `experiments/`, `hpc_scripts/`, `evaluate.py`, `run_final_test.py`, `tune_cc_non_leaked.py`, `figures/` | Code and figures of the first version, kept for the record |
 
 Not in the repository: the ISLES 2022 images and masks ([download from the challenge](https://isles22.grand-challenge.org/)), the corrected masks (`ISLES2022_Corrected/`, rebuilt by a script), and nnU-Net's preprocessed data and trained models (`nnunet/`).

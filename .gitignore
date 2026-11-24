@@ -51,3 +51,10 @@ nnunet/
 
 # Environment setup scripts of the revision study (not a virtual environment)
 !revision/env/
+
+# Manuscript drafts and notes (kept locally, not published)
+paper.pdf
+paper.tex
+sn-jnl.cls
+progress_report.md
+research_paper_draft.md
