@@ -1,0 +1,1113 @@
+{
+ "model": "unetr",
+ "n": 250,
+ "point_mae_ml": 6.327813386120001,
+ "cross_validation": {
+  "absolute": {
+   "0.2": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.8,
+     "ci_low": 0.7449739164752525,
+     "ci_high": 0.8477597656709578,
+     "median_width_ml": 8.351999999999997,
+     "median_relative_width": 1.3082706766917287,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.8010204081632653,
+     "ci_low": 0.7381835656799606,
+     "ci_high": 0.8545140204763948,
+     "median_width_ml": 8.255999999999998,
+     "median_relative_width": 1.5776173285198563,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 0.8,
+     "ci_low": 0.6143334890033935,
+     "ci_high": 0.9228644879991978,
+     "median_width_ml": 9.377486675000002,
+     "median_relative_width": 0.6889703204012796,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 0.7916666666666666,
+     "ci_low": 0.5784871563627672,
+     "ci_high": 0.9286813828019452,
+     "median_width_ml": 8.756860280000001,
+     "median_relative_width": 1.0391995123633562,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": 5.5400000000000045,
+     "median_relative_width": 12.57142857142857,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 0.9789473684210527,
+     "ci_low": 0.9260134525711468,
+     "ci_high": 0.9974401820139641,
+     "median_width_ml": 8.351999999999997,
+     "median_relative_width": 2.039062499999999,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.6436781609195402,
+     "ci_low": 0.5337637146421078,
+     "ci_high": 0.7435066832610918,
+     "median_width_ml": 10.448000000000008,
+     "median_relative_width": 0.4639257611360849,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.22727272727272727,
+     "ci_low": 0.07820626035189253,
+     "ci_high": 0.4537036236621423,
+     "median_width_ml": 8.802885950000004,
+     "median_relative_width": 0.08280535756445905,
+     "n_unbounded": 0
+    }
+   },
+   "0.1": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.9,
+     "ci_low": 0.8559246451862637,
+     "ci_high": 0.9342339930032998,
+     "median_width_ml": 16.992000000000004,
+     "median_relative_width": 2.5294117647058822,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.9030612244897959,
+     "ci_low": 0.8527602062370431,
+     "ci_high": 0.9406221941561841,
+     "median_width_ml": 16.992000000000004,
+     "median_relative_width": 2.961467889908257,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 0.9333333333333333,
+     "ci_low": 0.7792645984770379,
+     "ci_high": 0.9918218655393437,
+     "median_width_ml": 18.504000000000005,
+     "median_relative_width": 1.2945932911117193,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 0.8333333333333334,
+     "ci_low": 0.6261582865113247,
+     "ci_high": 0.9526463733927428,
+     "median_width_ml": 18.14789856,
+     "median_relative_width": 2.2671231477691824,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": 10.336000000000002,
+     "median_relative_width": 35.52857142857142,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 1.0,
+     "ci_low": 0.9619139224303163,
+     "ci_high": 1.0,
+     "median_width_ml": 14.192000000000004,
+     "median_relative_width": 3.638831454300503,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.8505747126436781,
+     "ci_low": 0.7580409728862713,
+     "ci_high": 0.9179678810531527,
+     "median_width_ml": 20.016000000000005,
+     "median_relative_width": 0.958231003246266,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.45454545454545453,
+     "ci_low": 0.24386186592301654,
+     "ci_high": 0.6778952454468308,
+     "median_width_ml": 19.92800000000001,
+     "median_relative_width": 0.18497086127020107,
+     "n_unbounded": 0
+    }
+   },
+   "0.05": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.96,
+     "ci_low": 0.9276706445096194,
+     "ci_high": 0.9806545014948509,
+     "median_width_ml": 34.766796049999996,
+     "median_relative_width": 4.4605263157894735,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.9540816326530612,
+     "ci_low": 0.9146248320850849,
+     "ci_high": 0.9787911674453137,
+     "median_width_ml": 34.03200000000001,
+     "median_relative_width": 5.85896655511811,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 1.0,
+     "ci_low": 0.8842966917779725,
+     "ci_high": 1.0,
+     "median_width_ml": 38.464257849999996,
+     "median_relative_width": 2.2979579593205544,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 0.9583333333333334,
+     "ci_low": 0.7887983165429797,
+     "ci_high": 0.99894564755452,
+     "median_width_ml": 38.50416736,
+     "median_relative_width": 4.027686925576299,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": 23.735999999999997,
+     "median_relative_width": 65.38571428571426,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 1.0,
+     "ci_low": 0.9619139224303163,
+     "ci_high": 1.0,
+     "median_width_ml": 26.359123649999997,
+     "median_relative_width": 7.065934065934064,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.9770114942528736,
+     "ci_low": 0.9194141341632304,
+     "ci_high": 0.9972037589615492,
+     "median_width_ml": 41.232,
+     "median_relative_width": 1.9691699604743078,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.6363636363636364,
+     "ci_low": 0.4065766688256466,
+     "ci_high": 0.828020562353721,
+     "median_width_ml": 46.73599999999999,
+     "median_relative_width": 0.3558146460607469,
+     "n_unbounded": 0
+    }
+   }
+  },
+  "logratio": {
+   "0.2": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.8,
+     "ci_low": 0.7449739164752525,
+     "ci_high": 0.8477597656709578,
+     "median_width_ml": 6.013361770663929,
+     "median_relative_width": 1.0263326013692642,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.7908163265306123,
+     "ci_low": 0.7271084102335726,
+     "ci_high": 0.845506614877362,
+     "median_width_ml": 4.491648295308897,
+     "median_relative_width": 1.0263326013692642,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 0.8666666666666667,
+     "ci_low": 0.6927816497238732,
+     "ci_high": 0.9624465036616628,
+     "median_width_ml": 15.581648475584199,
+     "median_relative_width": 1.0204098606997625,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 0.7916666666666666,
+     "ci_low": 0.5784871563627672,
+     "ci_high": 0.9286813828019452,
+     "median_width_ml": 8.20510772340015,
+     "median_relative_width": 1.06516967758128,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 0.7608695652173914,
+     "ci_low": 0.612331089885919,
+     "ci_high": 0.8741386051774097,
+     "median_width_ml": 0.4283887757325514,
+     "median_relative_width": 1.1738272960836256,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 0.7789473684210526,
+     "ci_low": 0.6821639882679572,
+     "ci_high": 0.8576532030702074,
+     "median_width_ml": 3.3365396570110235,
+     "median_relative_width": 0.9700776716310283,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.8390804597701149,
+     "ci_low": 0.7447672850080691,
+     "ci_high": 0.9091360015012484,
+     "median_width_ml": 19.87119869851966,
+     "median_relative_width": 1.0263326013692642,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.8181818181818182,
+     "ci_low": 0.5971542169222593,
+     "ci_high": 0.9481327006875634,
+     "median_width_ml": 115.83278431372547,
+     "median_relative_width": 1.0573798528579896,
+     "n_unbounded": 0
+    }
+   },
+   "0.1": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.9,
+     "ci_low": 0.8559246451862637,
+     "ci_high": 0.9342339930032998,
+     "median_width_ml": 13.014709212288306,
+     "median_relative_width": 1.913365205202231,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.8877551020408163,
+     "ci_low": 0.8350015075158684,
+     "ci_high": 0.9283052884666779,
+     "median_width_ml": 9.082152479053562,
+     "median_relative_width": 1.8946014055188702,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 0.9666666666666667,
+     "ci_low": 0.827830544366587,
+     "ci_high": 0.9991564290733507,
+     "median_width_ml": 33.55477020498701,
+     "median_relative_width": 1.9396627613013764,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 0.9166666666666666,
+     "ci_low": 0.7300271984423964,
+     "ci_high": 0.9897436587186352,
+     "median_width_ml": 18.962004228408837,
+     "median_relative_width": 2.170733456388044,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 0.8913043478260869,
+     "ci_low": 0.7643032992825268,
+     "ci_high": 0.9637516281086632,
+     "median_width_ml": 0.8970505974025973,
+     "median_relative_width": 2.2453399609444347,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 0.8736842105263158,
+     "ci_low": 0.7897450507366457,
+     "ci_high": 0.9329940608398735,
+     "median_width_ml": 6.523437645686239,
+     "median_relative_width": 1.8541470559515665,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.9540229885057471,
+     "ci_low": 0.8864465520333394,
+     "ci_high": 0.9873326241793586,
+     "median_width_ml": 42.17030262768029,
+     "median_relative_width": 1.9061004728685798,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.8181818181818182,
+     "ci_low": 0.5971542169222593,
+     "ci_high": 0.9481327006875634,
+     "median_width_ml": 237.6807473333505,
+     "median_relative_width": 2.1408725563610185,
+     "n_unbounded": 0
+    }
+   },
+   "0.05": {
+    "overall": {
+     "n": 250,
+     "coverage": 0.96,
+     "ci_low": 0.9276706445096194,
+     "ci_high": 0.9806545014948509,
+     "median_width_ml": 25.3101838718889,
+     "median_relative_width": 4.134232748840383,
+     "n_unbounded": 0
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 0.9489795918367347,
+     "ci_low": 0.908175146641483,
+     "ci_high": 0.975265789870645,
+     "median_width_ml": 19.05080535742725,
+     "median_relative_width": 4.183577011494253,
+     "n_unbounded": 0
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 1.0,
+     "ci_low": 0.8842966917779725,
+     "ci_high": 1.0,
+     "median_width_ml": 62.14373784173647,
+     "median_relative_width": 3.9917407704855035,
+     "n_unbounded": 0
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 1.0,
+     "ci_low": 0.8575264022774187,
+     "ci_high": 1.0,
+     "median_width_ml": 43.7074101702636,
+     "median_relative_width": 4.699179830348722,
+     "n_unbounded": 0
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 0.9347826086956522,
+     "ci_low": 0.8210356111272488,
+     "ci_high": 0.9863432280866773,
+     "median_width_ml": 1.9016832645051354,
+     "median_relative_width": 5.085183908045977,
+     "n_unbounded": 0
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 0.968421052631579,
+     "ci_low": 0.9104775020133162,
+     "ci_high": 0.9934397082498416,
+     "median_width_ml": 13.553900035115213,
+     "median_relative_width": 3.9209147078094615,
+     "n_unbounded": 0
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 0.9885057471264368,
+     "ci_low": 0.9376156797458327,
+     "ci_high": 0.9997090330521579,
+     "median_width_ml": 82.29878449302441,
+     "median_relative_width": 4.188500990891245,
+     "n_unbounded": 0
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 0.8636363636363636,
+     "ci_low": 0.6508779027425919,
+     "ci_high": 0.9709441488712534,
+     "median_width_ml": 456.6284210098613,
+     "median_relative_width": 4.434433767891463,
+     "n_unbounded": 0
+    }
+   }
+  },
+  "threshold": {
+   "0.2": {
+    "overall": {
+     "n": 250,
+     "coverage": 1.0,
+     "ci_low": 0.9853528113643196,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 250
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 1.0,
+     "ci_low": 0.8842966917779725,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 30
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 1.0,
+     "ci_low": 0.8575264022774187,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 24
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 46
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 1.0,
+     "ci_low": 0.9619139224303163,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 95
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 1.0,
+     "ci_low": 0.9584854340073622,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 87
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 1.0,
+     "ci_low": 0.8456274871844254,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 22
+    }
+   },
+   "0.1": {
+    "overall": {
+     "n": 250,
+     "coverage": 1.0,
+     "ci_low": 0.9853528113643196,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 250
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 1.0,
+     "ci_low": 0.8842966917779725,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 30
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 1.0,
+     "ci_low": 0.8575264022774187,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 24
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 46
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 1.0,
+     "ci_low": 0.9619139224303163,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 95
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 1.0,
+     "ci_low": 0.9584854340073622,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 87
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 1.0,
+     "ci_low": 0.8456274871844254,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 22
+    }
+   },
+   "0.05": {
+    "overall": {
+     "n": 250,
+     "coverage": 1.0,
+     "ci_low": 0.9853528113643196,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 250
+    },
+    "protocol A": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "protocol B1": {
+     "n": 30,
+     "coverage": 1.0,
+     "ci_low": 0.8842966917779725,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 30
+    },
+    "protocol B2": {
+     "n": 24,
+     "coverage": 1.0,
+     "ci_low": 0.8575264022774187,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 24
+    },
+    "volume <1 mL": {
+     "n": 46,
+     "coverage": 1.0,
+     "ci_low": 0.9229381729484393,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 46
+    },
+    "volume 1-10 mL": {
+     "n": 95,
+     "coverage": 1.0,
+     "ci_low": 0.9619139224303163,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 95
+    },
+    "volume 10-70 mL": {
+     "n": 87,
+     "coverage": 1.0,
+     "ci_low": 0.9584854340073622,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 87
+    },
+    "volume >70 mL": {
+     "n": 22,
+     "coverage": 1.0,
+     "ci_low": 0.8456274871844254,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 22
+    }
+   }
+  }
+ },
+ "mondrian_by_protocol": {
+  "absolute": {
+   "0.2": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.8010204081632653,
+     "ci_low": 0.7381835656799606,
+     "ci_high": 0.8545140204763948,
+     "median_width_ml": 9.044,
+     "median_relative_width": 1.6476608187134507,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.8148148148148148,
+     "ci_low": 0.6857034830197921,
+     "ci_high": 0.9074545132942392,
+     "median_width_ml": 12.5224246,
+     "median_relative_width": 1.0921901546415484,
+     "n_unbounded": 0
+    }
+   },
+   "0.1": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.9030612244897959,
+     "ci_low": 0.8527602062370431,
+     "ci_high": 0.9406221941561841,
+     "median_width_ml": 14.015999999999996,
+     "median_relative_width": 2.5659340659340653,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.9074074074074074,
+     "ci_low": 0.7969984528136825,
+     "ci_high": 0.9692472147325784,
+     "median_width_ml": 21.846980505,
+     "median_relative_width": 1.7034317483449581,
+     "n_unbounded": 0
+    }
+   },
+   "0.05": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.9540816326530612,
+     "ci_low": 0.9146248320850849,
+     "ci_high": 0.9787911674453137,
+     "median_width_ml": 26.308,
+     "median_relative_width": 4.809941520467836,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.9629629629629629,
+     "ci_low": 0.8725282277690526,
+     "ci_high": 0.9954827437055819,
+     "median_width_ml": 32.95659582500001,
+     "median_relative_width": 2.7271637939383506,
+     "n_unbounded": 0
+    }
+   }
+  },
+  "logratio": {
+   "0.2": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.8010204081632653,
+     "ci_low": 0.7381835656799606,
+     "ci_high": 0.8545140204763948,
+     "median_width_ml": 4.923022222222222,
+     "median_relative_width": 1.104273504273504,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.8148148148148148,
+     "ci_low": 0.6857034830197921,
+     "ci_high": 0.9074545132942392,
+     "median_width_ml": 10.371758251376239,
+     "median_relative_width": 0.898968464343865,
+     "n_unbounded": 0
+    }
+   },
+   "0.1": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.9030612244897959,
+     "ci_low": 0.8527602062370431,
+     "ci_high": 0.9406221941561841,
+     "median_width_ml": 9.444951449593997,
+     "median_relative_width": 2.117246443967957,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.9074074074074074,
+     "ci_low": 0.7969984528136825,
+     "ci_high": 0.9692472147325784,
+     "median_width_ml": 18.570166658073866,
+     "median_relative_width": 1.5757573500075364,
+     "n_unbounded": 0
+    }
+   },
+   "0.05": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 0.9540816326530612,
+     "ci_low": 0.9146248320850849,
+     "ci_high": 0.9787911674453137,
+     "median_width_ml": 19.165270177208022,
+     "median_relative_width": 4.296221144908384,
+     "n_unbounded": 0
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 0.9629629629629629,
+     "ci_low": 0.8725282277690526,
+     "ci_high": 0.9954827437055819,
+     "median_width_ml": 34.201889506338695,
+     "median_relative_width": 2.902175288250688,
+     "n_unbounded": 0
+    }
+   }
+  },
+  "threshold": {
+   "0.2": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 1.0,
+     "ci_low": 0.9339684857558858,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 54
+    }
+   },
+   "0.1": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 1.0,
+     "ci_low": 0.9339684857558858,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 54
+    }
+   },
+   "0.05": {
+    "thin-slice": {
+     "n": 196,
+     "coverage": 1.0,
+     "ci_low": 0.981355192050258,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 196
+    },
+    "thick-slice": {
+     "n": 54,
+     "coverage": 1.0,
+     "ci_low": 0.9339684857558858,
+     "ci_high": 1.0,
+     "median_width_ml": Infinity,
+     "median_relative_width": NaN,
+     "n_unbounded": 54
+    }
+   }
+  }
+ },
+ "decision": {
+  "absolute": {
+   "21.0": {
+    "n_truly_above": 65,
+    "point_errors": 9,
+    "interval_determined": 157,
+    "interval_errors": 3,
+    "undetermined": 93,
+    "point_errors_among_undetermined": 6
+   },
+   "31.0": {
+    "n_truly_above": 48,
+    "point_errors": 13,
+    "interval_determined": 214,
+    "interval_errors": 4,
+    "undetermined": 36,
+    "point_errors_among_undetermined": 9
+   },
+   "51.0": {
+    "n_truly_above": 30,
+    "point_errors": 7,
+    "interval_determined": 235,
+    "interval_errors": 4,
+    "undetermined": 15,
+    "point_errors_among_undetermined": 3
+   },
+   "70.0": {
+    "n_truly_above": 22,
+    "point_errors": 5,
+    "interval_determined": 241,
+    "interval_errors": 3,
+    "undetermined": 9,
+    "point_errors_among_undetermined": 2
+   }
+  },
+  "logratio": {
+   "21.0": {
+    "n_truly_above": 65,
+    "point_errors": 9,
+    "interval_determined": 167,
+    "interval_errors": 2,
+    "undetermined": 83,
+    "point_errors_among_undetermined": 7
+   },
+   "31.0": {
+    "n_truly_above": 48,
+    "point_errors": 13,
+    "interval_determined": 177,
+    "interval_errors": 1,
+    "undetermined": 73,
+    "point_errors_among_undetermined": 12
+   },
+   "51.0": {
+    "n_truly_above": 30,
+    "point_errors": 7,
+    "interval_determined": 195,
+    "interval_errors": 2,
+    "undetermined": 55,
+    "point_errors_among_undetermined": 5
+   },
+   "70.0": {
+    "n_truly_above": 22,
+    "point_errors": 5,
+    "interval_determined": 206,
+    "interval_errors": 3,
+    "undetermined": 44,
+    "point_errors_among_undetermined": 2
+   }
+  },
+  "threshold": {
+   "21.0": {
+    "n_truly_above": 65,
+    "point_errors": 9,
+    "interval_determined": 0,
+    "interval_errors": 0,
+    "undetermined": 250,
+    "point_errors_among_undetermined": 9
+   },
+   "31.0": {
+    "n_truly_above": 48,
+    "point_errors": 13,
+    "interval_determined": 0,
+    "interval_errors": 0,
+    "undetermined": 250,
+    "point_errors_among_undetermined": 13
+   },
+   "51.0": {
+    "n_truly_above": 30,
+    "point_errors": 7,
+    "interval_determined": 0,
+    "interval_errors": 0,
+    "undetermined": 250,
+    "point_errors_among_undetermined": 7
+   },
+   "70.0": {
+    "n_truly_above": 22,
+    "point_errors": 5,
+    "interval_determined": 0,
+    "interval_errors": 0,
+    "undetermined": 250,
+    "point_errors_among_undetermined": 5
+   }
+  }
+ },
+ "decision_baselines": {
+  "21.0": {
+   "point_errors": 9,
+   "interval": {
+    "flagged": 83,
+    "errors_left": 2,
+    "errors_caught": 7
+   },
+   "ratio_matched": {
+    "flagged": 83,
+    "errors_left": 2,
+    "errors_caught": 7,
+    "overlap_with_interval": 77
+   },
+   "ml_matched": {
+    "flagged": 83,
+    "errors_left": 2,
+    "errors_caught": 7,
+    "overlap_with_interval": 70
+   },
+   "fixed_band_10pct": {
+    "flagged": 7,
+    "errors_left": 6,
+    "errors_caught": 3
+   },
+   "fixed_band_20pct": {
+    "flagged": 16,
+    "errors_left": 5,
+    "errors_caught": 4
+   },
+   "fixed_band_50pct": {
+    "flagged": 53,
+    "errors_left": 3,
+    "errors_caught": 6
+   }
+  },
+  "31.0": {
+   "point_errors": 13,
+   "interval": {
+    "flagged": 73,
+    "errors_left": 1,
+    "errors_caught": 12
+   },
+   "ratio_matched": {
+    "flagged": 73,
+    "errors_left": 1,
+    "errors_caught": 12,
+    "overlap_with_interval": 68
+   },
+   "ml_matched": {
+    "flagged": 73,
+    "errors_left": 1,
+    "errors_caught": 12,
+    "overlap_with_interval": 64
+   },
+   "fixed_band_10pct": {
+    "flagged": 12,
+    "errors_left": 8,
+    "errors_caught": 5
+   },
+   "fixed_band_20pct": {
+    "flagged": 20,
+    "errors_left": 6,
+    "errors_caught": 7
+   },
+   "fixed_band_50pct": {
+    "flagged": 40,
+    "errors_left": 2,
+    "errors_caught": 11
+   }
+  },
+  "51.0": {
+   "point_errors": 7,
+   "interval": {
+    "flagged": 55,
+    "errors_left": 2,
+    "errors_caught": 5
+   },
+   "ratio_matched": {
+    "flagged": 55,
+    "errors_left": 2,
+    "errors_caught": 5,
+    "overlap_with_interval": 53
+   },
+   "ml_matched": {
+    "flagged": 55,
+    "errors_left": 2,
+    "errors_caught": 5,
+    "overlap_with_interval": 48
+   },
+   "fixed_band_10pct": {
+    "flagged": 4,
+    "errors_left": 5,
+    "errors_caught": 2
+   },
+   "fixed_band_20pct": {
+    "flagged": 6,
+    "errors_left": 5,
+    "errors_caught": 2
+   },
+   "fixed_band_50pct": {
+    "flagged": 31,
+    "errors_left": 4,
+    "errors_caught": 3
+   }
+  },
+  "70.0": {
+   "point_errors": 5,
+   "interval": {
+    "flagged": 44,
+    "errors_left": 3,
+    "errors_caught": 2
+   },
+   "ratio_matched": {
+    "flagged": 44,
+    "errors_left": 3,
+    "errors_caught": 2,
+    "overlap_with_interval": 38
+   },
+   "ml_matched": {
+    "flagged": 44,
+    "errors_left": 3,
+    "errors_caught": 2,
+    "overlap_with_interval": 38
+   },
+   "fixed_band_10pct": {
+    "flagged": 3,
+    "errors_left": 5,
+    "errors_caught": 0
+   },
+   "fixed_band_20pct": {
+    "flagged": 8,
+    "errors_left": 3,
+    "errors_caught": 2
+   },
+   "fixed_band_50pct": {
+    "flagged": 24,
+    "errors_left": 3,
+    "errors_caught": 2
+   }
+  }
+ }
+}

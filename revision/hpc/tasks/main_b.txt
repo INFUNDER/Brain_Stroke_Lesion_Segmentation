@@ -1,0 +1,16 @@
+# Main comparison, 250-epoch equal budget, DWI+ADC: the three high-cost models (about 380 GPU-hours)
+omnimamba_nn 0
+omnimamba_nn 1
+omnimamba_nn 2
+omnimamba_nn 3
+omnimamba_nn 4
+swinunetr 0
+swinunetr 1
+swinunetr 2
+swinunetr 3
+swinunetr 4
+omnimamba_orig 0
+omnimamba_orig 1
+omnimamba_orig 2
+omnimamba_orig 3
+omnimamba_orig 4

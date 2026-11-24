@@ -1,0 +1,6 @@
+# Second convolutional reference on the full 1000-epoch schedule
+resenc_m_long 0
+resenc_m_long 1
+resenc_m_long 2
+resenc_m_long 3
+resenc_m_long 4

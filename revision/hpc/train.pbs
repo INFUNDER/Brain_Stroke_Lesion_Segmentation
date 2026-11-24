@@ -1,0 +1,73 @@
+#!/bin/bash
+#PBS -N sb_train
+#PBS -q gpu
+#PBS -l select=1:ncpus=10:ngpus=1:mem=40gb
+#PBS -j oe
+# Train a list of (model, fold) tasks one after another on one GPU.
+#
+#   qsub -N sb_main_a -l select=1:ncpus=10:ngpus=1:mem=40gb:host=gpu01 -o revision/logs/job_main_a.log \
+#        -v TASKFILE=revision/hpc/tasks/main_a.txt,nnUNet_n_proc_DA=8 revision/hpc/train.pbs
+#
+# host=gpu01: on 2026-11-15 a job sent to gpu02 never started and was re-dispatched ~1,800 times
+# in two minutes. Check `qstat -f <job> | grep run_count` after submitting anything to gpu02.
+# mem=40gb: gpu01 often has less than 64 GB of unassigned RAM, and a larger request just queues.
+#
+# Each line of the task file is:   <model key> <fold> [dataset key] [trainer override]
+# (model keys are defined in revision/strokebench/config.py; default dataset is dwi_adc).
+#
+# The job is safe to resubmit: finished tasks are skipped and interrupted ones resume
+# from their last checkpoint. Because GPUs on this cluster are shared, a task that
+# crashes (typically a neighbour exhausting GPU memory) is retried after a pause.
+source "$PBS_O_WORKDIR/revision/hpc/common.sh"
+
+MAX_TRIES="${MAX_TRIES:-6}"
+[ -f "$TASKFILE" ] || { echo "TASKFILE '$TASKFILE' not found"; exit 1; }
+# PBS only delivers the job's own output when the job ends, so mirror it to a file that can be read while it runs.
+exec > >(tee -a "$PBS_O_WORKDIR/revision/logs/live_${PBS_JOBNAME:-job}_${PBS_JOBID%%.*}.log") 2>&1
+
+run_task() {
+  local model="$1" fold="$2" dataset="${3:-dwi_adc}" trainer_override="${4:-}"
+  local spec plans configuration trainer ds_id ds_name need_gb out try gpu
+  spec="$(python - "$model" "$dataset" <<'EOF'
+import sys
+from strokebench import config, paths
+plans, configuration, trainer = config.ALL_MODELS[sys.argv[1]]
+ds_id, ds_name = paths.DATASETS[sys.argv[2]]
+print(plans, configuration, trainer, ds_id, ds_name, config.GPU_MEMORY_GB[sys.argv[1]])
+EOF
+)" || { echo "unknown model/dataset: $model $dataset"; return 1; }
+  read -r plans configuration trainer ds_id ds_name need_gb <<< "$spec"
+  [ -n "$trainer_override" ] && trainer="$trainer_override"
+  out="$nnUNet_results/$ds_name/${trainer}__${plans}__${configuration}/fold_${fold}"
+
+  if [ -f "$out/validation/summary.json" ]; then
+    echo "[$(date '+%F %T')] SKIP $model fold $fold ($dataset, $trainer): already finished"
+    return 0
+  fi
+  for try in $(seq 1 "$MAX_TRIES"); do
+    gpu="$(wait_for_gpus 1 "$need_gb" "${MAX_WAIT_MIN:-720}")" || { echo "no GPU with ${need_gb} GB free within ${MAX_WAIT_MIN:-720} min"; return 1; }
+    local resume=""
+    [ -f "$out/checkpoint_latest.pth" ] || [ -f "$out/checkpoint_final.pth" ] && resume="--c"
+    echo "[$(date '+%F %T')] START $model fold $fold ($dataset, $trainer) on GPU $gpu, try $try $resume"
+    CUDA_VISIBLE_DEVICES="$gpu" nnUNetv2_train "$ds_id" "$configuration" "$fold" -p "$plans" -tr "$trainer" --npz $resume \
+        < /dev/null > "$PBS_O_WORKDIR/revision/logs/train_${model}_${dataset}_${trainer}_f${fold}.try${try}.log" 2>&1
+    if [ -f "$out/validation/summary.json" ]; then
+      echo "[$(date '+%F %T')] DONE $model fold $fold ($dataset, $trainer)"
+      python -m strokebench.evaluate --model "$model" --dataset "$dataset" --folds "$fold" --trainer "$trainer_override" \
+          --out-dir revision/results/per_fold < /dev/null 2>&1 | grep -E "^fold" | cut -c1-400
+      return 0
+    fi
+    echo "[$(date '+%F %T')] FAILED $model fold $fold try $try: $(grep -E 'Error|error' "$PBS_O_WORKDIR/revision/logs/train_${model}_${dataset}_${trainer}_f${fold}.try${try}.log" | tail -1 | cut -c1-200)"
+    sleep 300
+  done
+  echo "[$(date '+%F %T')] GAVE UP $model fold $fold after $MAX_TRIES tries"
+  return 1
+}
+
+status=0
+while read -r model fold dataset trainer_override; do
+  case "$model" in ''|\#*) continue ;; esac
+  run_task "$model" "$fold" "$dataset" "$trainer_override" || status=1
+done < "$TASKFILE"
+echo "JOB_FINISHED status=$status $(date '+%F %T')"
+exit $status

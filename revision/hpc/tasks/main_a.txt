@@ -1,0 +1,21 @@
+# Main comparison, 250-epoch equal budget, DWI+ADC: the four low-cost models
+nnunet 0
+nnunet 1
+nnunet 2
+nnunet 3
+nnunet 4
+resenc_m 0
+resenc_m 1
+resenc_m 2
+resenc_m 3
+resenc_m 4
+unetr 0
+unetr 1
+unetr 2
+unetr 3
+unetr 4
+umamba_bot 0
+umamba_bot 1
+umamba_bot 2
+umamba_bot 3
+umamba_bot 4

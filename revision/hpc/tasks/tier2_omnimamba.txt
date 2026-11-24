@@ -1,0 +1,4 @@
+# Protocol-shift folds 5-7 for OmniMamba (in nnU-Net)
+omnimamba_nn 5
+omnimamba_nn 6
+omnimamba_nn 7

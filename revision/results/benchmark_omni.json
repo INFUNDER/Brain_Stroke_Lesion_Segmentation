@@ -1,0 +1,61 @@
+{
+ "meta": {
+  "host": "gpu01",
+  "torch": "2.4.1+cu121",
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "iterations_per_epoch": 250,
+  "note": "shared GPU, see log for neighbour load"
+ },
+ "models": [
+  {
+   "model": "omnimamba_nn",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_omnimamba",
+   "trainer": "StrokeTrainer",
+   "parameters_M": 22.746216,
+   "planned_batch_size": 8,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "gpu_free_GB_at_start": 53.814208984375,
+   "train_s_per_iter": 1.6370343657210469,
+   "train_peak_mem_GB": 25.056498527526855,
+   "loss_first": 0.9270586967468262,
+   "loss_last": 0.0992160439491272,
+   "loss_finite": true,
+   "hours_per_1000_epochs": 113.68294206396159,
+   "infer_s_per_patch": 0.13509456869214773,
+   "infer_peak_mem_GB": 1.8771777153015137,
+   "infer_output_finite": true,
+   "status": "ok"
+  },
+  {
+   "model": "omnimamba_orig",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_omnimamba_orig",
+   "trainer": "StrokeTrainerAdamWNoDS",
+   "parameters_M": 35.009794,
+   "planned_batch_size": 8,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "gpu_free_GB_at_start": 53.460693359375,
+   "train_s_per_iter": 1.7517793528735637,
+   "train_peak_mem_GB": 25.994848251342773,
+   "loss_first": 0.6357776522636414,
+   "loss_last": 0.6255947947502136,
+   "loss_finite": true,
+   "hours_per_1000_epochs": 121.65134394955304,
+   "infer_s_per_patch": 0.13097410853952168,
+   "infer_peak_mem_GB": 2.168067455291748,
+   "infer_output_finite": true,
+   "status": "ok"
+  }
+ ]
+}

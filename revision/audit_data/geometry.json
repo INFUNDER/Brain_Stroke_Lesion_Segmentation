@@ -1,0 +1,21002 @@
+[
+{
+"case": "sub-strokecase0001",
+"raw_fg": 835,
+"fmt_fg": 835,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0002",
+"raw_fg": 118,
+"fmt_fg": 118,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0003",
+"raw_fg": 3873,
+"fmt_fg": 3873,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0004",
+"raw_fg": 281,
+"fmt_fg": 281,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0005",
+"raw_fg": 728,
+"fmt_fg": 728,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0006",
+"raw_fg": 5,
+"fmt_fg": 5,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0007",
+"raw_fg": 439,
+"fmt_fg": 439,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0008",
+"raw_fg": 94,
+"fmt_fg": 94,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0009",
+"raw_fg": 523,
+"fmt_fg": 523,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0010",
+"raw_fg": 421,
+"fmt_fg": 421,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0011",
+"raw_fg": 1399,
+"fmt_fg": 1399,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0012",
+"raw_fg": 56,
+"fmt_fg": 56,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0013",
+"raw_fg": 3645,
+"fmt_fg": 3645,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0014",
+"raw_fg": 1549,
+"fmt_fg": 1549,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0015",
+"raw_fg": 1651,
+"fmt_fg": 1651,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0016",
+"raw_fg": 26,
+"fmt_fg": 26,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0017",
+"raw_fg": 1929,
+"fmt_fg": 1929,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0018",
+"raw_fg": 133,
+"fmt_fg": 133,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0019",
+"raw_fg": 8572,
+"fmt_fg": 8572,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0020",
+"raw_fg": 1107,
+"fmt_fg": 1107,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0021",
+"raw_fg": 2215,
+"fmt_fg": 2215,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0022",
+"raw_fg": 163,
+"fmt_fg": 163,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0023",
+"raw_fg": 60269,
+"fmt_fg": 60269,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0024",
+"raw_fg": 3005,
+"fmt_fg": 3005,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0025",
+"raw_fg": 969,
+"fmt_fg": 969,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0026",
+"raw_fg": 451,
+"fmt_fg": 451,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0027",
+"raw_fg": 822,
+"fmt_fg": 822,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0028",
+"raw_fg": 909,
+"fmt_fg": 909,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0029",
+"raw_fg": 1095,
+"fmt_fg": 1095,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0030",
+"raw_fg": 64,
+"fmt_fg": 64,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0031",
+"raw_fg": 11634,
+"fmt_fg": 11634,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+320,
+320,
+29
+],
+[
+0.719,
+0.719,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0032",
+"raw_fg": 67,
+"fmt_fg": 67,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0033",
+"raw_fg": 5644,
+"fmt_fg": 5644,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0034",
+"raw_fg": 155,
+"fmt_fg": 155,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0035",
+"raw_fg": 18,
+"fmt_fg": 18,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0036",
+"raw_fg": 2321,
+"fmt_fg": 2321,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0037",
+"raw_fg": 61,
+"fmt_fg": 61,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0038",
+"raw_fg": 1289,
+"fmt_fg": 1289,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0039",
+"raw_fg": 2266,
+"fmt_fg": 2266,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0040",
+"raw_fg": 1327,
+"fmt_fg": 1327,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0041",
+"raw_fg": 653,
+"fmt_fg": 653,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0042",
+"raw_fg": 587,
+"fmt_fg": 587,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0043",
+"raw_fg": 3843,
+"fmt_fg": 3843,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0044",
+"raw_fg": 154,
+"fmt_fg": 154,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0045",
+"raw_fg": 96,
+"fmt_fg": 96,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+320,
+320,
+29
+],
+[
+0.719,
+0.719,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0046",
+"raw_fg": 46,
+"fmt_fg": 0,
+"dwi": [
+[
+130,
+130,
+65
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+130,
+130,
+65
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+240,
+320,
+31
+],
+[
+0.719,
+0.719,
+4.4
+]
+],
+"msk": [
+[
+130,
+130,
+65
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+130,
+130,
+65
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+130,
+130,
+65
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "SIEMENS",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0047",
+"raw_fg": 6462,
+"fmt_fg": 6462,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0048",
+"raw_fg": 6875,
+"fmt_fg": 6875,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0049",
+"raw_fg": 610,
+"fmt_fg": 610,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0050",
+"raw_fg": 1925,
+"fmt_fg": 1925,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+384,
+384,
+230
+],
+[
+0.625,
+0.625,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0051",
+"raw_fg": 390,
+"fmt_fg": 390,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0052",
+"raw_fg": 2053,
+"fmt_fg": 2053,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0053",
+"raw_fg": 90,
+"fmt_fg": 90,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0054",
+"raw_fg": 412,
+"fmt_fg": 412,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0055",
+"raw_fg": 3230,
+"fmt_fg": 3230,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+1024,
+1024,
+230
+],
+[
+0.234,
+0.234,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0056",
+"raw_fg": 84,
+"fmt_fg": 84,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0057",
+"raw_fg": 7400,
+"fmt_fg": 7400,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+267,
+336,
+336
+],
+[
+0.75,
+0.75,
+0.75
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0058",
+"raw_fg": 438,
+"fmt_fg": 438,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0059",
+"raw_fg": 87,
+"fmt_fg": 87,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0060",
+"raw_fg": 1998,
+"fmt_fg": 1998,
+"dwi": [
+[
+115,
+115,
+28
+],
+[
+2.0,
+2.0,
+5.0
+]
+],
+"adc": [
+[
+115,
+115,
+28
+],
+[
+2.0,
+2.0,
+5.0
+]
+],
+"flair": [
+[
+281,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+115,
+115,
+28
+],
+[
+2.0,
+2.0,
+5.0
+]
+],
+"fmt_img": [
+[
+115,
+115,
+28
+],
+[
+2.0,
+2.0,
+5.0
+]
+],
+"fmt_lbl": [
+[
+115,
+115,
+28
+],
+[
+2.0,
+2.0,
+5.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0061",
+"raw_fg": 88,
+"fmt_fg": 88,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0062",
+"raw_fg": 24752,
+"fmt_fg": 24752,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0063",
+"raw_fg": 758,
+"fmt_fg": 758,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0064",
+"raw_fg": 42,
+"fmt_fg": 42,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0065",
+"raw_fg": 3385,
+"fmt_fg": 3385,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0066",
+"raw_fg": 8963,
+"fmt_fg": 8963,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0067",
+"raw_fg": 39,
+"fmt_fg": 39,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0068",
+"raw_fg": 461,
+"fmt_fg": 461,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0069",
+"raw_fg": 17,
+"fmt_fg": 17,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0070",
+"raw_fg": 67,
+"fmt_fg": 67,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0071",
+"raw_fg": 218,
+"fmt_fg": 218,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0072",
+"raw_fg": 1016,
+"fmt_fg": 1016,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0073",
+"raw_fg": 195,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+192,
+256,
+256
+],
+[
+1.0,
+1.0,
+1.0
+]
+],
+"msk": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "SIEMENS",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0074",
+"raw_fg": 663,
+"fmt_fg": 663,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0075",
+"raw_fg": 309,
+"fmt_fg": 309,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0076",
+"raw_fg": 757,
+"fmt_fg": 757,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0077",
+"raw_fg": 5054,
+"fmt_fg": 5054,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0078",
+"raw_fg": 14052,
+"fmt_fg": 14052,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0079",
+"raw_fg": 37,
+"fmt_fg": 37,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0080",
+"raw_fg": 82,
+"fmt_fg": 82,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+528,
+528,
+29
+],
+[
+0.437,
+0.437,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0081",
+"raw_fg": 15709,
+"fmt_fg": 15709,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+1024,
+1024,
+230
+],
+[
+0.234,
+0.234,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0082",
+"raw_fg": 121,
+"fmt_fg": 121,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0083",
+"raw_fg": 13897,
+"fmt_fg": 13897,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0084",
+"raw_fg": 896,
+"fmt_fg": 896,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0085",
+"raw_fg": 3631,
+"fmt_fg": 3631,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0086",
+"raw_fg": 5845,
+"fmt_fg": 5845,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0087",
+"raw_fg": 9781,
+"fmt_fg": 9781,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0088",
+"raw_fg": 55,
+"fmt_fg": 55,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0089",
+"raw_fg": 192,
+"fmt_fg": 192,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0090",
+"raw_fg": 451,
+"fmt_fg": 451,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0091",
+"raw_fg": 6075,
+"fmt_fg": 6075,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0092",
+"raw_fg": 8254,
+"fmt_fg": 8254,
+"dwi": [
+[
+115,
+115,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+115,
+115,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+560,
+560,
+33
+],
+[
+0.429,
+0.429,
+5.0
+]
+],
+"msk": [
+[
+115,
+115,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+115,
+115,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+115,
+115,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0093",
+"raw_fg": 42,
+"fmt_fg": 42,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0094",
+"raw_fg": 567,
+"fmt_fg": 567,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0095",
+"raw_fg": 310,
+"fmt_fg": 310,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0096",
+"raw_fg": 158,
+"fmt_fg": 158,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0097",
+"raw_fg": 910,
+"fmt_fg": 910,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0098",
+"raw_fg": 173,
+"fmt_fg": 173,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0099",
+"raw_fg": 467,
+"fmt_fg": 467,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0100",
+"raw_fg": 71,
+"fmt_fg": 71,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0101",
+"raw_fg": 9633,
+"fmt_fg": 0,
+"dwi": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"adc": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"fmt_img": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"fmt_lbl": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0102",
+"raw_fg": 8447,
+"fmt_fg": 8447,
+"dwi": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"adc": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"flair": [
+[
+352,
+230,
+352
+],
+[
+0.682,
+1.0,
+0.682
+]
+],
+"msk": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"fmt_img": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"fmt_lbl": [
+[
+256,
+256,
+73
+],
+[
+0.875,
+0.875,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0103",
+"raw_fg": 24,
+"fmt_fg": 24,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0104",
+"raw_fg": 9644,
+"fmt_fg": 9644,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0105",
+"raw_fg": 1682,
+"fmt_fg": 1682,
+"dwi": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+192,
+256,
+256
+],
+[
+1.0,
+1.0,
+1.0
+]
+],
+"msk": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "SIEMENS",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0106",
+"raw_fg": 773,
+"fmt_fg": 773,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0107",
+"raw_fg": 5026,
+"fmt_fg": 5026,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0108",
+"raw_fg": 545,
+"fmt_fg": 545,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0109",
+"raw_fg": 747,
+"fmt_fg": 747,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0110",
+"raw_fg": 1147,
+"fmt_fg": 1147,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0111",
+"raw_fg": 23,
+"fmt_fg": 23,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0112",
+"raw_fg": 55,
+"fmt_fg": 55,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0113",
+"raw_fg": 7850,
+"fmt_fg": 7850,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0114",
+"raw_fg": 774,
+"fmt_fg": 774,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0115",
+"raw_fg": 15,
+"fmt_fg": 15,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0116",
+"raw_fg": 17437,
+"fmt_fg": 17437,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0117",
+"raw_fg": 6,
+"fmt_fg": 6,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0118",
+"raw_fg": 798,
+"fmt_fg": 798,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0119",
+"raw_fg": 70,
+"fmt_fg": 70,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0120",
+"raw_fg": 3795,
+"fmt_fg": 3795,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0121",
+"raw_fg": 512,
+"fmt_fg": 512,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0122",
+"raw_fg": 1716,
+"fmt_fg": 1716,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0123",
+"raw_fg": 11603,
+"fmt_fg": 11603,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0124",
+"raw_fg": 418,
+"fmt_fg": 418,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0125",
+"raw_fg": 4467,
+"fmt_fg": 4467,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0126",
+"raw_fg": 521,
+"fmt_fg": 521,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0127",
+"raw_fg": 17908,
+"fmt_fg": 17908,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0128",
+"raw_fg": 128,
+"fmt_fg": 128,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0129",
+"raw_fg": 135,
+"fmt_fg": 135,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0130",
+"raw_fg": 549,
+"fmt_fg": 549,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0131",
+"raw_fg": 1297,
+"fmt_fg": 1297,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0132",
+"raw_fg": 240,
+"fmt_fg": 240,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0133",
+"raw_fg": 423,
+"fmt_fg": 423,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0134",
+"raw_fg": 72,
+"fmt_fg": 72,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0135",
+"raw_fg": 182,
+"fmt_fg": 182,
+"dwi": [
+[
+112,
+112,
+74
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+74
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+230
+],
+[
+0.682,
+0.682,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+74
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+74
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+74
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0136",
+"raw_fg": 25,
+"fmt_fg": 25,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0137",
+"raw_fg": 281,
+"fmt_fg": 0,
+"dwi": [
+[
+170,
+170,
+33
+],
+[
+1.353,
+1.353,
+4.4
+]
+],
+"adc": [
+[
+170,
+170,
+33
+],
+[
+1.353,
+1.353,
+4.4
+]
+],
+"flair": [
+[
+240,
+320,
+33
+],
+[
+0.719,
+0.719,
+4.4
+]
+],
+"msk": [
+[
+170,
+170,
+33
+],
+[
+1.353,
+1.353,
+4.4
+]
+],
+"fmt_img": [
+[
+170,
+170,
+33
+],
+[
+1.353,
+1.353,
+4.4
+]
+],
+"fmt_lbl": [
+[
+170,
+170,
+33
+],
+[
+1.353,
+1.353,
+4.4
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0138",
+"raw_fg": 25,
+"fmt_fg": 25,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0139",
+"raw_fg": 70,
+"fmt_fg": 70,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0140",
+"raw_fg": 17671,
+"fmt_fg": 17671,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+320,
+320,
+29
+],
+[
+0.719,
+0.719,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0141",
+"raw_fg": 15,
+"fmt_fg": 15,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+1024,
+1024,
+230
+],
+[
+0.234,
+0.234,
+1.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0142",
+"raw_fg": 321,
+"fmt_fg": 321,
+"dwi": [
+[
+115,
+115,
+70
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+115,
+115,
+70
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+400,
+400,
+29
+],
+[
+0.575,
+0.575,
+5.0
+]
+],
+"msk": [
+[
+115,
+115,
+70
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+115,
+115,
+70
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+115,
+115,
+70
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0143",
+"raw_fg": 330,
+"fmt_fg": 330,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0144",
+"raw_fg": 10,
+"fmt_fg": 10,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0145",
+"raw_fg": 606,
+"fmt_fg": 606,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0146",
+"raw_fg": 2627,
+"fmt_fg": 2627,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0147",
+"raw_fg": 108,
+"fmt_fg": 108,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0148",
+"raw_fg": 285,
+"fmt_fg": 285,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0149",
+"raw_fg": 46,
+"fmt_fg": 46,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0150",
+"raw_fg": 0,
+"fmt_fg": 0,
+"dwi": [
+[
+112,
+112,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+75
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0151",
+"raw_fg": 0,
+"fmt_fg": 0,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0152",
+"raw_fg": 169,
+"fmt_fg": 169,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0153",
+"raw_fg": 3225,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0154",
+"raw_fg": 341,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0155",
+"raw_fg": 1654,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0156",
+"raw_fg": 1712,
+"fmt_fg": 1712,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0157",
+"raw_fg": 442,
+"fmt_fg": 442,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0158",
+"raw_fg": 362,
+"fmt_fg": 362,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0159",
+"raw_fg": 283,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0160",
+"raw_fg": 554,
+"fmt_fg": 554,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0161",
+"raw_fg": 6132,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0162",
+"raw_fg": 2974,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0163",
+"raw_fg": 684,
+"fmt_fg": 684,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.708,
+0.708
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0164",
+"raw_fg": 1815,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0165",
+"raw_fg": 1708,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0166",
+"raw_fg": 3850,
+"fmt_fg": 3850,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0167",
+"raw_fg": 204,
+"fmt_fg": 204,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0168",
+"raw_fg": 3817,
+"fmt_fg": 3817,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0169",
+"raw_fg": 406,
+"fmt_fg": 406,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0170",
+"raw_fg": 0,
+"fmt_fg": 0,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0171",
+"raw_fg": 3876,
+"fmt_fg": 3876,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0172",
+"raw_fg": 728,
+"fmt_fg": 728,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0173",
+"raw_fg": 4316,
+"fmt_fg": 4316,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0174",
+"raw_fg": 108,
+"fmt_fg": 108,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0175",
+"raw_fg": 401,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0176",
+"raw_fg": 2779,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0177",
+"raw_fg": 35,
+"fmt_fg": 35,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0178",
+"raw_fg": 1920,
+"fmt_fg": 1920,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0179",
+"raw_fg": 3552,
+"fmt_fg": 3552,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0180",
+"raw_fg": 2471,
+"fmt_fg": 2471,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0181",
+"raw_fg": 2026,
+"fmt_fg": 2026,
+"dwi": [
+[
+112,
+112,
+76
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+76
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+76
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+76
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+76
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0182",
+"raw_fg": 105,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0183",
+"raw_fg": 652,
+"fmt_fg": 652,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0184",
+"raw_fg": 834,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0185",
+"raw_fg": 229,
+"fmt_fg": 229,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0186",
+"raw_fg": 718,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0187",
+"raw_fg": 399,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0188",
+"raw_fg": 1596,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0189",
+"raw_fg": 675,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0190",
+"raw_fg": 1361,
+"fmt_fg": 1361,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0191",
+"raw_fg": 6765,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0192",
+"raw_fg": 1197,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0193",
+"raw_fg": 1842,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0194",
+"raw_fg": 983,
+"fmt_fg": 983,
+"dwi": [
+[
+128,
+128,
+27
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+27
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+27
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+27
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+27
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0195",
+"raw_fg": 1220,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0196",
+"raw_fg": 1684,
+"fmt_fg": 1684,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+31
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0197",
+"raw_fg": 380,
+"fmt_fg": 380,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0198",
+"raw_fg": 394,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0199",
+"raw_fg": 1548,
+"fmt_fg": 1548,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0200",
+"raw_fg": 1396,
+"fmt_fg": 1396,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0201",
+"raw_fg": 19044,
+"fmt_fg": 0,
+"dwi": [
+[
+122,
+122,
+63
+],
+[
+1.967,
+1.967,
+2.0
+]
+],
+"adc": [
+[
+122,
+122,
+63
+],
+[
+1.967,
+1.967,
+2.0
+]
+],
+"flair": [
+[
+240,
+320,
+31
+],
+[
+0.719,
+0.719,
+4.4
+]
+],
+"msk": [
+[
+122,
+122,
+63
+],
+[
+1.967,
+1.967,
+2.0
+]
+],
+"fmt_img": [
+[
+122,
+122,
+63
+],
+[
+1.967,
+1.967,
+2.0
+]
+],
+"fmt_lbl": [
+[
+122,
+122,
+63
+],
+[
+1.967,
+1.967,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "SIEMENS",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0202",
+"raw_fg": 1169,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+15
+],
+[
+0.43,
+0.43,
+9.6
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0203",
+"raw_fg": 135,
+"fmt_fg": 135,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0204",
+"raw_fg": 1743,
+"fmt_fg": 1743,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0205",
+"raw_fg": 4608,
+"fmt_fg": 4608,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0206",
+"raw_fg": 797,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0207",
+"raw_fg": 2720,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0208",
+"raw_fg": 2764,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0209",
+"raw_fg": 3362,
+"fmt_fg": 3362,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0210",
+"raw_fg": 1618,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0211",
+"raw_fg": 7494,
+"fmt_fg": 7494,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0212",
+"raw_fg": 138,
+"fmt_fg": 138,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0213",
+"raw_fg": 804,
+"fmt_fg": 804,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0214",
+"raw_fg": 337,
+"fmt_fg": 337,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0215",
+"raw_fg": 2365,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0216",
+"raw_fg": 140,
+"fmt_fg": 140,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0217",
+"raw_fg": 6090,
+"fmt_fg": 6090,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0218",
+"raw_fg": 1674,
+"fmt_fg": 1674,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0219",
+"raw_fg": 847,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0220",
+"raw_fg": 680,
+"fmt_fg": 680,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0221",
+"raw_fg": 11862,
+"fmt_fg": 11862,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0222",
+"raw_fg": 26019,
+"fmt_fg": 26019,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0223",
+"raw_fg": 17435,
+"fmt_fg": 17435,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0224",
+"raw_fg": 2447,
+"fmt_fg": 2447,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0225",
+"raw_fg": 330,
+"fmt_fg": 330,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0226",
+"raw_fg": 428,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0227",
+"raw_fg": 547,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0228",
+"raw_fg": 706,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0229",
+"raw_fg": 3351,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0230",
+"raw_fg": 17091,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0231",
+"raw_fg": 4085,
+"fmt_fg": 4085,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0232",
+"raw_fg": 182,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+30
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+30
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+30
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+30
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+30
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0233",
+"raw_fg": 8,
+"fmt_fg": 8,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+255,
+320,
+320
+],
+[
+0.783,
+0.781,
+0.781
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0234",
+"raw_fg": 29,
+"fmt_fg": 29,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0235",
+"raw_fg": 1502,
+"fmt_fg": 1502,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0236",
+"raw_fg": 4444,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0237",
+"raw_fg": 9906,
+"fmt_fg": 9906,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0238",
+"raw_fg": 2042,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0239",
+"raw_fg": 1090,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0240",
+"raw_fg": 26551,
+"fmt_fg": 26551,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+512,
+512,
+29
+],
+[
+0.449,
+0.449,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0241",
+"raw_fg": 224,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0242",
+"raw_fg": 900,
+"fmt_fg": 900,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+352,
+352,
+29
+],
+[
+0.653,
+0.653,
+5.0
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0243",
+"raw_fg": 1301,
+"fmt_fg": 0,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0244",
+"raw_fg": 4339,
+"fmt_fg": 4339,
+"dwi": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+253,
+336,
+336
+],
+[
+0.712,
+0.714,
+0.714
+]
+],
+"msk": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+73
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0245",
+"raw_fg": 967,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0246",
+"raw_fg": 27032,
+"fmt_fg": 27032,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0247",
+"raw_fg": 2282,
+"fmt_fg": 2282,
+"dwi": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"adc": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"flair": [
+[
+281,
+352,
+352
+],
+[
+0.712,
+0.71,
+0.71
+]
+],
+"msk": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_img": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"fmt_lbl": [
+[
+112,
+112,
+72
+],
+[
+2.0,
+2.0,
+2.0
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": "Philips Medical Systems",
+"model": null,
+"field": 3.0,
+"inst": null
+},
+{
+"case": "sub-strokecase0248",
+"raw_fg": 2541,
+"fmt_fg": 2541,
+"dwi": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"adc": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"flair": [
+[
+464,
+512,
+30
+],
+[
+0.43,
+0.43,
+4.8
+]
+],
+"msk": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_img": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"fmt_lbl": [
+[
+192,
+192,
+30
+],
+[
+1.146,
+1.146,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0249",
+"raw_fg": 726,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+},
+{
+"case": "sub-strokecase0250",
+"raw_fg": 518,
+"fmt_fg": 0,
+"dwi": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"adc": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"flair": [
+[
+224,
+256,
+24
+],
+[
+0.859,
+0.859,
+6.0
+]
+],
+"msk": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_img": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"fmt_lbl": [
+[
+128,
+128,
+25
+],
+[
+1.797,
+1.797,
+4.8
+]
+],
+"msk_eq_dwi_affine": true,
+"fmt_eq_dwi_affine": true,
+"same_shape_msk_fmtlbl": true,
+"vendor": null,
+"model": null,
+"field": null,
+"inst": null
+}
+]

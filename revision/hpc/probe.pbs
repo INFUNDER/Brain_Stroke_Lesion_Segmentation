@@ -1,0 +1,49 @@
+#!/bin/bash
+#PBS -N sb_probe
+#PBS -q gpu
+#PBS -l select=1:ncpus=12:ngpus=1:mem=64gb
+#PBS -l walltime=01:30:00
+#PBS -j oe
+# Submit from the repository root:  qsub -o revision/logs/probe.log revision/hpc/probe.pbs
+#
+# One short job that answers, on a real compute node:
+#   1. does the environment work on the GPU (cuDNN, the state-space operator, mixed precision)?
+#   2. what does each model cost (parameters, time per step, memory)?
+#   3. does the whole pipeline run end to end (train -> validate -> export -> score)?
+source "$PBS_O_WORKDIR/revision/hpc/common.sh"
+
+GPUS="$(wait_for_gpus 1 18 30)"
+[ -z "$GPUS" ] && { echo "PROBE_FAILED: no GPU with 18 GB free within 30 minutes"; exit 1; }
+export CUDA_VISIBLE_DEVICES="$GPUS"
+echo "using GPU $CUDA_VISIBLE_DEVICES (shared with other users' jobs: timings below are upper bounds, not publishable)"
+nvidia-smi --query-gpu=index,memory.used,utilization.gpu --format=csv,noheader -i "$GPUS"
+
+echo; echo "##### 1. environment and unit tests"
+python - <<'EOF'
+import torch
+print("torch", torch.__version__, "| cuda", torch.version.cuda, "| cudnn", torch.backends.cudnn.version(),
+      "|", torch.cuda.get_device_name(0), "| %.0f GB" % (torch.cuda.get_device_properties(0).total_memory / 2**30))
+EOF
+python -m pytest revision/tests -q -p no:cacheprovider 2>&1 | grep -vE "Warning|warn\(|autocast\(enabled" | tail -25
+echo "PYTEST_EXIT=${PIPESTATUS[0]}"
+
+echo; echo "##### 2. cost of each model"
+python -m strokebench.benchmark 2>&1 | grep -vE "Warning|warn\(|autocast\(enabled|^$"
+echo "BENCHMARK_EXIT=${PIPESTATUS[0]}"
+
+echo; echo "##### 3. end-to-end smoke test (2 tiny epochs, separate result folder)"
+export nnUNet_results="$PBS_O_WORKDIR/nnunet/results_debug/${PBS_JOBID:-manual_$(date +%s)}"   # fresh folder per job
+mkdir -p "$nnUNet_results"
+smoke() {   # model key, plans, configuration, trainer
+  echo "--- smoke: $1"
+  nnUNetv2_train 522 "$3" 0 -p "$2" -tr "${4}Debug" --npz 2>&1 | grep -E "Epoch |train_loss|val_loss|Pseudo dice|Mean Validation Dice|Error|Traceback|error" | tail -8
+  echo "TRAIN_EXIT_$1=${PIPESTATUS[0]}"
+  python -m strokebench.evaluate --model "$1" --folds 0 --results-root "$nnUNet_results" --trainer-suffix Debug \
+      --out-dir revision/results/smoke 2>&1 | tail -3
+  echo "EVAL_EXIT_$1=${PIPESTATUS[0]}"
+}
+smoke nnunet nnUNetPlans 3d_fullres StrokeTrainer
+smoke omnimamba_nn nnUNetPlans 3d_fullres_omnimamba StrokeTrainer
+smoke swinunetr nnUNetPlans 3d_fullres_swinunetr StrokeTrainerAdamWNoDS
+
+echo; echo "PROBE_DONE $(date '+%F %T')"

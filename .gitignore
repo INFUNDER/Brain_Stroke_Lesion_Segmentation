@@ -1,5 +1,6 @@
 # Datasets & Formatted Volumes
 ISLES2022_Formatted/
+ISLES2022_Corrected/
 cache_preprocessed/
 isless2022dataset/
 
@@ -44,3 +45,9 @@ env/
 *.lof
 *.lot
 *.synctex.gz
+
+# nnU-Net working directories (raw copies, preprocessed data, trained models)
+nnunet/
+
+# Environment setup scripts of the revision study (not a virtual environment)
+!revision/env/

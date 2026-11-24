@@ -1,0 +1,251 @@
+case,protocol,thick_slice,shape,spacing_x,spacing_y,spacing_z,voxel_ml,lesion_voxels,lesion_ml,n_lesions,vendor,field_T,sex,age
+sub-strokecase0001,A,0,112x112x73,2.0,2.0,2.0,0.008,835,6.68,31,Philips Medical Systems,3.0,F,88
+sub-strokecase0002,A,0,112x112x72,2.0,2.0,2.0,0.008,118,0.944,1,,,,
+sub-strokecase0003,A,0,112x112x72,2.0,2.0,2.0,0.008,3873,30.984,46,Philips Medical Systems,3.0,M,81
+sub-strokecase0004,A,0,112x112x72,2.0,2.0,2.0,0.008,281,2.248,8,,,,
+sub-strokecase0005,A,0,112x112x72,2.0,2.0,2.0,0.008,728,5.824,8,Philips Medical Systems,3.0,M,73
+sub-strokecase0006,A,0,112x112x72,2.0,2.0,2.0,0.008,5,0.04,1,,,,
+sub-strokecase0007,A,0,112x112x73,2.0,2.0,2.0,0.008,439,3.512,9,Philips Medical Systems,3.0,M,60
+sub-strokecase0008,A,0,112x112x72,2.0,2.0,2.0,0.008,94,0.752,5,Philips Medical Systems,3.0,F,78
+sub-strokecase0009,A,0,112x112x73,2.0,2.0,2.0,0.008,523,4.184,18,Philips Medical Systems,3.0,F,60
+sub-strokecase0010,A,0,112x112x72,2.0,2.0,2.0,0.008,421,3.368,14,Philips Medical Systems,3.0,F,97
+sub-strokecase0011,A,0,112x112x73,2.0,2.0,2.0,0.008,1399,11.192,10,,3.0,M,40
+sub-strokecase0012,A,0,112x112x72,2.0,2.0,2.0,0.008,56,0.448,1,,,,
+sub-strokecase0013,A,0,112x112x72,2.0,2.0,2.0,0.008,3645,29.16,22,Philips Medical Systems,3.0,M,78
+sub-strokecase0014,A,0,112x112x73,2.0,2.0,2.0,0.008,1549,12.392,9,Philips Medical Systems,3.0,F,87
+sub-strokecase0015,A,0,112x112x72,2.0,2.0,2.0,0.008,1651,13.208,2,,3.0,M,65
+sub-strokecase0016,A,0,112x112x72,2.0,2.0,2.0,0.008,26,0.208,2,,,,
+sub-strokecase0017,A,0,112x112x73,2.0,2.0,2.0,0.008,1929,15.432,8,Philips Medical Systems,3.0,F,
+sub-strokecase0018,A,0,112x112x73,2.0,2.0,2.0,0.008,133,1.064,1,,,,
+sub-strokecase0019,A,0,112x112x72,2.0,2.0,2.0,0.008,8572,68.576,15,Philips Medical Systems,3.0,M,78
+sub-strokecase0020,A,0,112x112x72,2.0,2.0,2.0,0.008,1107,8.856,3,,,,
+sub-strokecase0021,A,0,112x112x72,2.0,2.0,2.0,0.008,2215,17.72,10,Philips Medical Systems,3.0,M,76
+sub-strokecase0022,A,0,112x112x73,2.0,2.0,2.0,0.008,163,1.304,2,,,,
+sub-strokecase0023,A,0,112x112x73,2.0,2.0,2.0,0.008,60269,482.152,9,Philips Medical Systems,3.0,F,63
+sub-strokecase0024,A,0,112x112x73,2.0,2.0,2.0,0.008,3005,24.04,14,,,,
+sub-strokecase0025,A,0,112x112x73,2.0,2.0,2.0,0.008,969,7.752,4,Philips Medical Systems,3.0,F,
+sub-strokecase0026,A,0,112x112x72,2.0,2.0,2.0,0.008,451,3.608,9,Philips Medical Systems,3.0,M,72
+sub-strokecase0027,A,0,112x112x72,2.0,2.0,2.0,0.008,822,6.576,7,,3.0,F,75
+sub-strokecase0028,A,0,112x112x72,2.0,2.0,2.0,0.008,909,7.272,6,Philips Medical Systems,3.0,F,80
+sub-strokecase0029,A,0,112x112x73,2.0,2.0,2.0,0.008,1095,8.76,13,Philips Medical Systems,3.0,F,80
+sub-strokecase0030,A,0,112x112x73,2.0,2.0,2.0,0.008,64,0.512,7,Philips Medical Systems,3.0,F,
+sub-strokecase0031,A,0,112x112x73,2.0,2.0,2.0,0.008,11634,93.072,20,Philips Medical Systems,3.0,M,82
+sub-strokecase0032,A,0,112x112x73,2.0,2.0,2.0,0.008,67,0.536,1,,,,
+sub-strokecase0033,A,0,112x112x72,2.0,2.0,2.0,0.008,5644,45.152,12,Philips Medical Systems,3.0,F,40
+sub-strokecase0034,A,0,112x112x73,2.0,2.0,2.0,0.008,155,1.24,3,Philips Medical Systems,3.0,M,
+sub-strokecase0035,A,0,112x112x73,2.0,2.0,2.0,0.008,18,0.144,1,,,,
+sub-strokecase0036,A,0,112x112x73,2.0,2.0,2.0,0.008,2321,18.568,9,Philips Medical Systems,3.0,M,
+sub-strokecase0037,A,0,112x112x72,2.0,2.0,2.0,0.008,61,0.488,1,,,,
+sub-strokecase0038,A,0,112x112x73,2.0,2.0,2.0,0.008,1289,10.312,4,,,,
+sub-strokecase0039,A,0,112x112x72,2.0,2.0,2.0,0.008,2266,18.128,9,Philips Medical Systems,3.0,F,76
+sub-strokecase0040,A,0,112x112x72,2.0,2.0,2.0,0.008,1327,10.616,12,,3.0,M,69
+sub-strokecase0041,A,0,112x112x73,2.0,2.0,2.0,0.008,653,5.224,10,Philips Medical Systems,3.0,M,52
+sub-strokecase0042,A,0,112x112x72,2.0,2.0,2.0,0.008,587,4.696,5,,3.0,M,56
+sub-strokecase0043,A,0,112x112x73,2.0,2.0,2.0,0.008,3843,30.744,44,,,,
+sub-strokecase0044,A,0,112x112x72,2.0,2.0,2.0,0.008,154,1.232,4,,,,
+sub-strokecase0045,A,0,112x112x73,2.0,2.0,2.0,0.008,96,0.768,1,Philips Medical Systems,3.0,F,41
+sub-strokecase0046,A,0,130x130x65,2.0,2.0,2.0,0.008,46,0.368,1,SIEMENS,3.0,F,74
+sub-strokecase0047,A,0,112x112x72,2.0,2.0,2.0,0.008,6462,51.696,9,,,,
+sub-strokecase0048,A,0,112x112x72,2.0,2.0,2.0,0.008,6875,55.0,37,Philips Medical Systems,3.0,F,66
+sub-strokecase0049,A,0,112x112x73,2.0,2.0,2.0,0.008,610,4.88,14,Philips Medical Systems,3.0,F,85
+sub-strokecase0050,A,0,112x112x72,2.0,2.0,2.0,0.008,1925,15.4,11,,3.0,M,54
+sub-strokecase0051,A,0,112x112x72,2.0,2.0,2.0,0.008,390,3.12,8,Philips Medical Systems,3.0,M,72
+sub-strokecase0052,A,0,112x112x73,2.0,2.0,2.0,0.008,2053,16.424,8,Philips Medical Systems,3.0,F,
+sub-strokecase0053,A,0,112x112x73,2.0,2.0,2.0,0.008,90,0.72,2,,,,
+sub-strokecase0054,A,0,112x112x72,2.0,2.0,2.0,0.008,412,3.296,6,,,,
+sub-strokecase0055,A,0,112x112x73,2.0,2.0,2.0,0.008,3230,25.84,2,Philips Medical Systems,3.0,M,79
+sub-strokecase0056,A,0,112x112x72,2.0,2.0,2.0,0.008,84,0.672,4,Philips Medical Systems,3.0,F,81
+sub-strokecase0057,A,0,112x112x73,2.0,2.0,2.0,0.008,7400,59.2,3,Philips,3.0,M,78
+sub-strokecase0058,A,0,112x112x73,2.0,2.0,2.0,0.008,438,3.504,2,,,,
+sub-strokecase0059,A,0,112x112x73,2.0,2.0,2.0,0.008,87,0.696,1,,,,
+sub-strokecase0060,B1,1,115x115x28,2.0,2.0,5.0,0.02,1998,39.96,2,,,,
+sub-strokecase0061,A,0,112x112x73,2.0,2.0,2.0,0.008,88,0.704,1,,,,
+sub-strokecase0062,A,0,112x112x72,2.0,2.0,2.0,0.008,24752,198.016,5,Philips Medical Systems,3.0,F,82
+sub-strokecase0063,A,0,112x112x73,2.0,2.0,2.0,0.008,758,6.064,2,,,,
+sub-strokecase0064,A,0,112x112x72,2.0,2.0,2.0,0.008,42,0.336,2,,,,
+sub-strokecase0065,A,0,112x112x72,2.0,2.0,2.0,0.008,3385,27.08,4,,3.0,F,81
+sub-strokecase0066,A,0,112x112x73,2.0,2.0,2.0,0.008,8963,71.704,1,,,,
+sub-strokecase0067,A,0,112x112x73,2.0,2.0,2.0,0.008,39,0.312,1,,,,
+sub-strokecase0068,A,0,112x112x72,2.0,2.0,2.0,0.008,461,3.688,3,Philips Medical Systems,3.0,F,53
+sub-strokecase0069,A,0,112x112x72,2.0,2.0,2.0,0.008,17,0.136,1,,,,
+sub-strokecase0070,A,0,112x112x72,2.0,2.0,2.0,0.008,67,0.536,1,,,,
+sub-strokecase0071,A,0,112x112x72,2.0,2.0,2.0,0.008,218,1.744,7,Philips Medical Systems,3.0,M,77
+sub-strokecase0072,A,0,112x112x72,2.0,2.0,2.0,0.008,1016,8.128,10,Philips Medical Systems,3.0,F,83
+sub-strokecase0073,A,0,128x128x72,2.0,2.0,2.0,0.008,195,1.56,11,SIEMENS,3.0,M,41
+sub-strokecase0074,A,0,112x112x73,2.0,2.0,2.0,0.008,663,5.304,8,Philips Medical Systems,3.0,F,83
+sub-strokecase0075,A,0,112x112x73,2.0,2.0,2.0,0.008,309,2.472,12,Philips Medical Systems,3.0,M,78
+sub-strokecase0076,A,0,112x112x72,2.0,2.0,2.0,0.008,757,6.056,28,Philips Medical Systems,3.0,F,65
+sub-strokecase0077,A,0,112x112x73,2.0,2.0,2.0,0.008,5054,40.432,6,Philips Medical Systems,3.0,F,91
+sub-strokecase0078,A,0,112x112x73,2.0,2.0,2.0,0.008,14052,112.416,7,Philips Medical Systems,3.0,M,52
+sub-strokecase0079,A,0,112x112x72,2.0,2.0,2.0,0.008,37,0.296,4,,,,
+sub-strokecase0080,A,0,112x112x73,2.0,2.0,2.0,0.008,82,0.656,2,Philips Medical Systems,3.0,M,52
+sub-strokecase0081,A,0,112x112x73,2.0,2.0,2.0,0.008,15709,125.672,3,,3.0,F,83
+sub-strokecase0082,A,0,112x112x72,2.0,2.0,2.0,0.008,121,0.968,1,,,,
+sub-strokecase0083,A,0,112x112x73,2.0,2.0,2.0,0.008,13897,111.176,2,Philips Medical Systems,3.0,F,
+sub-strokecase0084,A,0,112x112x73,2.0,2.0,2.0,0.008,896,7.168,2,Philips Medical Systems,3.0,M,63
+sub-strokecase0085,A,0,112x112x72,2.0,2.0,2.0,0.008,3631,29.048,5,Philips Medical Systems,3.0,M,66
+sub-strokecase0086,A,0,112x112x73,2.0,2.0,2.0,0.008,5845,46.76,2,,,,
+sub-strokecase0087,A,0,112x112x73,2.0,2.0,2.0,0.008,9781,78.248,4,,3.0,M,58
+sub-strokecase0088,A,0,112x112x73,2.0,2.0,2.0,0.008,55,0.44,1,,,,
+sub-strokecase0089,A,0,112x112x73,2.0,2.0,2.0,0.008,192,1.536,1,,,,
+sub-strokecase0090,A,0,112x112x73,2.0,2.0,2.0,0.008,451,3.608,10,,,,
+sub-strokecase0091,A,0,112x112x72,2.0,2.0,2.0,0.008,6075,48.6,19,,3.0,M,74
+sub-strokecase0092,A,0,115x115x75,2.0,2.0,2.0,0.008,8254,66.032,4,Philips Medical Systems,3.0,M,
+sub-strokecase0093,A,0,112x112x72,2.0,2.0,2.0,0.008,42,0.336,1,,,,
+sub-strokecase0094,A,0,112x112x73,2.0,2.0,2.0,0.008,567,4.536,13,Philips Medical Systems,3.0,M,78
+sub-strokecase0095,A,0,112x112x72,2.0,2.0,2.0,0.008,310,2.48,9,,3.0,M,80
+sub-strokecase0096,A,0,112x112x73,2.0,2.0,2.0,0.008,158,1.264,2,Philips Medical Systems,3.0,F,88
+sub-strokecase0097,A,0,112x112x72,2.0,2.0,2.0,0.008,910,7.28,18,Philips Medical Systems,3.0,M,86
+sub-strokecase0098,A,0,112x112x72,2.0,2.0,2.0,0.008,173,1.384,15,,3.0,M,79
+sub-strokecase0099,A,0,112x112x73,2.0,2.0,2.0,0.008,467,3.736,5,Philips Medical Systems,3.0,M,
+sub-strokecase0100,A,0,112x112x73,2.0,2.0,2.0,0.008,71,0.568,1,,,,
+sub-strokecase0101,A,0,256x256x73,0.875,0.875,2.0,0.00153125,9633,14.7505,2,Philips Medical Systems,3.0,F,49
+sub-strokecase0102,A,0,256x256x73,0.875,0.875,2.0,0.00153125,8447,12.9345,12,Philips Medical Systems,3.0,F,84
+sub-strokecase0103,A,0,112x112x72,2.0,2.0,2.0,0.008,24,0.192,1,,,,
+sub-strokecase0104,A,0,112x112x73,2.0,2.0,2.0,0.008,9644,77.152,16,Philips Medical Systems,3.0,M,
+sub-strokecase0105,A,0,128x128x72,2.0,2.0,2.0,0.008,1682,13.456,6,SIEMENS,3.0,M,63
+sub-strokecase0106,A,0,112x112x73,2.0,2.0,2.0,0.008,773,6.184,1,Philips Medical Systems,3.0,M,
+sub-strokecase0107,A,0,112x112x72,2.0,2.0,2.0,0.008,5026,40.208,25,Philips Medical Systems,3.0,M,67
+sub-strokecase0108,A,0,112x112x72,2.0,2.0,2.0,0.008,545,4.36,17,Philips Medical Systems,3.0,F,78
+sub-strokecase0109,A,0,112x112x73,2.0,2.0,2.0,0.008,747,5.976,1,,,,
+sub-strokecase0110,A,0,112x112x73,2.0,2.0,2.0,0.008,1147,9.176,10,Philips Medical Systems,3.0,F,85
+sub-strokecase0111,A,0,112x112x72,2.0,2.0,2.0,0.008,23,0.184,1,,,,
+sub-strokecase0112,A,0,112x112x73,2.0,2.0,2.0,0.008,55,0.44,1,,,,
+sub-strokecase0113,A,0,112x112x73,2.0,2.0,2.0,0.008,7850,62.8,16,Philips Medical Systems,3.0,F,83
+sub-strokecase0114,A,0,112x112x73,2.0,2.0,2.0,0.008,774,6.192,1,,,,
+sub-strokecase0115,A,0,112x112x73,2.0,2.0,2.0,0.008,15,0.12,1,,,,
+sub-strokecase0116,A,0,112x112x73,2.0,2.0,2.0,0.008,17437,139.496,4,Philips Medical Systems,3.0,F,88
+sub-strokecase0117,A,0,112x112x73,2.0,2.0,2.0,0.008,6,0.048,2,,3.0,F,87
+sub-strokecase0118,A,0,112x112x73,2.0,2.0,2.0,0.008,798,6.384,6,Philips Medical Systems,3.0,F,
+sub-strokecase0119,A,0,112x112x72,2.0,2.0,2.0,0.008,70,0.56,1,,,,
+sub-strokecase0120,A,0,112x112x72,2.0,2.0,2.0,0.008,3795,30.36,12,Philips Medical Systems,3.0,M,60
+sub-strokecase0121,A,0,112x112x73,2.0,2.0,2.0,0.008,512,4.096,1,,,,
+sub-strokecase0122,A,0,112x112x73,2.0,2.0,2.0,0.008,1716,13.728,1,Philips Medical Systems,3.0,F,
+sub-strokecase0123,A,0,112x112x73,2.0,2.0,2.0,0.008,11603,92.824,10,,3.0,F,93
+sub-strokecase0124,A,0,112x112x72,2.0,2.0,2.0,0.008,418,3.344,1,Philips Medical Systems,3.0,F,79
+sub-strokecase0125,A,0,112x112x73,2.0,2.0,2.0,0.008,4467,35.736,1,,,,
+sub-strokecase0126,A,0,112x112x72,2.0,2.0,2.0,0.008,521,4.168,5,,,,
+sub-strokecase0127,A,0,112x112x72,2.0,2.0,2.0,0.008,17908,143.264,3,Philips Medical Systems,3.0,F,66
+sub-strokecase0128,A,0,112x112x73,2.0,2.0,2.0,0.008,128,1.024,3,Philips Medical Systems,3.0,M,75
+sub-strokecase0129,A,0,112x112x73,2.0,2.0,2.0,0.008,135,1.08,4,,,,
+sub-strokecase0130,A,0,112x112x73,2.0,2.0,2.0,0.008,549,4.392,11,Philips Medical Systems,3.0,M,
+sub-strokecase0131,A,0,112x112x72,2.0,2.0,2.0,0.008,1297,10.376,5,Philips Medical Systems,3.0,F,85
+sub-strokecase0132,A,0,112x112x72,2.0,2.0,2.0,0.008,240,1.92,5,Philips Medical Systems,3.0,F,81
+sub-strokecase0133,A,0,112x112x72,2.0,2.0,2.0,0.008,423,3.384,14,Philips Medical Systems,3.0,F,84
+sub-strokecase0134,A,0,112x112x73,2.0,2.0,2.0,0.008,72,0.576,1,Philips Medical Systems,3.0,M,74
+sub-strokecase0135,A,0,112x112x74,2.0,2.0,2.0,0.008,182,1.456,3,Philips Medical Systems,3.0,F,88
+sub-strokecase0136,A,0,112x112x72,2.0,2.0,2.0,0.008,25,0.2,1,Philips Medical Systems,3.0,F,79
+sub-strokecase0137,B2,1,170x170x33,1.3529,1.3529,4.4,0.00805398,281,2.2632,1,,3.0,F,68
+sub-strokecase0138,A,0,112x112x73,2.0,2.0,2.0,0.008,25,0.2,1,,,,
+sub-strokecase0139,A,0,112x112x73,2.0,2.0,2.0,0.008,70,0.56,2,Philips Medical Systems,3.0,F,77
+sub-strokecase0140,A,0,112x112x73,2.0,2.0,2.0,0.008,17671,141.368,3,Philips Medical Systems,3.0,M,82
+sub-strokecase0141,A,0,112x112x73,2.0,2.0,2.0,0.008,15,0.12,5,Philips Medical Systems,3.0,M,66
+sub-strokecase0142,A,0,115x115x70,2.0,2.0,2.0,0.008,321,2.568,1,Philips Medical Systems,3.0,F,68
+sub-strokecase0143,A,0,112x112x73,2.0,2.0,2.0,0.008,330,2.64,4,Philips Medical Systems,3.0,M,60
+sub-strokecase0144,A,0,112x112x73,2.0,2.0,2.0,0.008,10,0.08,1,,,,
+sub-strokecase0145,A,0,112x112x72,2.0,2.0,2.0,0.008,606,4.848,22,Philips Medical Systems,3.0,M,50
+sub-strokecase0146,A,0,112x112x73,2.0,2.0,2.0,0.008,2627,21.016,11,Philips Medical Systems,3.0,F,82
+sub-strokecase0147,A,0,112x112x73,2.0,2.0,2.0,0.008,108,0.864,7,,,,
+sub-strokecase0148,A,0,112x112x73,2.0,2.0,2.0,0.008,285,2.28,1,,,,
+sub-strokecase0149,A,0,112x112x73,2.0,2.0,2.0,0.008,46,0.368,2,,,,
+sub-strokecase0150,A,0,112x112x75,2.0,2.0,2.0,0.008,0,0.0,0,,,,
+sub-strokecase0151,A,0,112x112x73,2.0,2.0,2.0,0.008,0,0.0,0,,,,
+sub-strokecase0152,A,0,112x112x72,2.0,2.0,2.0,0.008,169,1.352,22,Philips Medical Systems,3.0,F,85
+sub-strokecase0153,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,3225,49.9812,69,,,,
+sub-strokecase0154,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,341,2.149,2,,,,
+sub-strokecase0155,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1654,25.6338,6,,,,
+sub-strokecase0156,A,0,112x112x72,2.0,2.0,2.0,0.008,1712,13.696,9,Philips Medical Systems,3.0,F,79
+sub-strokecase0157,A,0,112x112x73,2.0,2.0,2.0,0.008,442,3.536,6,Philips Medical Systems,3.0,M,
+sub-strokecase0158,A,0,112x112x72,2.0,2.0,2.0,0.008,362,2.896,12,Philips Medical Systems,3.0,F,77
+sub-strokecase0159,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,283,4.3859,18,,,,
+sub-strokecase0160,A,0,112x112x72,2.0,2.0,2.0,0.008,554,4.432,6,Philips Medical Systems,3.0,M,70
+sub-strokecase0161,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,6132,95.034,4,,,,
+sub-strokecase0162,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,2974,46.0912,28,,,,
+sub-strokecase0163,A,0,112x112x73,2.0,2.0,2.0,0.008,684,5.472,3,Philips Medical Systems,3.0,F,77
+sub-strokecase0164,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1815,28.129,4,,,,
+sub-strokecase0165,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1708,10.764,28,,,,
+sub-strokecase0166,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,3850,59.6675,12,,,,
+sub-strokecase0167,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,204,1.2856,2,,,,
+sub-strokecase0168,A,0,112x112x72,2.0,2.0,2.0,0.008,3817,30.536,16,Philips Medical Systems,3.0,F,66
+sub-strokecase0169,A,0,112x112x73,2.0,2.0,2.0,0.008,406,3.248,8,Philips Medical Systems,3.0,M,67
+sub-strokecase0170,A,0,112x112x72,2.0,2.0,2.0,0.008,0,0.0,0,Philips Medical Systems,3.0,F,61
+sub-strokecase0171,A,0,112x112x72,2.0,2.0,2.0,0.008,3876,31.008,37,Philips Medical Systems,3.0,M,58
+sub-strokecase0172,A,0,112x112x72,2.0,2.0,2.0,0.008,728,5.824,7,Philips Medical Systems,3.0,F,87
+sub-strokecase0173,A,0,112x112x72,2.0,2.0,2.0,0.008,4316,34.528,6,Philips Medical Systems,3.0,F,46
+sub-strokecase0174,A,0,112x112x72,2.0,2.0,2.0,0.008,108,0.864,1,Philips Medical Systems,3.0,F,85
+sub-strokecase0175,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,401,2.5271,1,,,,
+sub-strokecase0176,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,2779,43.0691,6,,,,
+sub-strokecase0177,A,0,112x112x72,2.0,2.0,2.0,0.008,35,0.28,2,Philips Medical Systems,3.0,M,67
+sub-strokecase0178,A,0,112x112x72,2.0,2.0,2.0,0.008,1920,15.36,44,Philips Medical Systems,3.0,F,83
+sub-strokecase0179,A,0,112x112x72,2.0,2.0,2.0,0.008,3552,28.416,8,Philips Medical Systems,3.0,F,83
+sub-strokecase0180,A,0,112x112x72,2.0,2.0,2.0,0.008,2471,19.768,22,Philips Medical Systems,3.0,F,54
+sub-strokecase0181,A,0,112x112x76,2.0,2.0,2.0,0.008,2026,16.208,4,Philips Medical Systems,3.0,M,63
+sub-strokecase0182,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,105,1.6273,3,,,,
+sub-strokecase0183,A,0,112x112x72,2.0,2.0,2.0,0.008,652,5.216,20,Philips Medical Systems,3.0,M,85
+sub-strokecase0184,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,834,5.2559,3,,,,
+sub-strokecase0185,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,229,1.4432,3,,,,
+sub-strokecase0186,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,718,11.1276,50,,,,
+sub-strokecase0187,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,399,6.1837,4,,,,
+sub-strokecase0188,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1596,10.0581,3,,,,
+sub-strokecase0189,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,675,10.4612,1,,,,
+sub-strokecase0190,A,0,112x112x72,2.0,2.0,2.0,0.008,1361,10.888,3,Philips Medical Systems,3.0,M,60
+sub-strokecase0191,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,6765,42.6336,63,,,,
+sub-strokecase0192,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1197,18.5512,3,,,,
+sub-strokecase0193,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1842,11.6084,13,,,,
+sub-strokecase0194,B1,1,128x128x27,1.7969,1.7969,4.8,0.01549805,983,15.2346,17,,,,
+sub-strokecase0195,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1220,18.9076,32,,,,
+sub-strokecase0196,A,0,112x112x73,2.0,2.0,2.0,0.008,1684,13.472,3,Philips Medical Systems,3.0,M,71
+sub-strokecase0197,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,380,5.8893,10,,,,
+sub-strokecase0198,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,394,6.1062,3,,,,
+sub-strokecase0199,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1548,9.7556,1,,,,
+sub-strokecase0200,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1396,8.7977,1,,,,
+sub-strokecase0201,A,0,122x122x63,1.9672,1.9672,2.0,0.00773986,19044,147.3978,22,SIEMENS,3.0,F,81
+sub-strokecase0202,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1169,7.3671,3,,,,
+sub-strokecase0203,A,0,112x112x73,2.0,2.0,2.0,0.008,135,1.08,4,Philips Medical Systems,3.0,F,32
+sub-strokecase0204,A,0,112x112x73,2.0,2.0,2.0,0.008,1743,13.944,2,Philips Medical Systems,3.0,F,77
+sub-strokecase0205,A,0,112x112x72,2.0,2.0,2.0,0.008,4608,36.864,6,Philips Medical Systems,3.0,F,80
+sub-strokecase0206,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,797,5.0228,9,,,,
+sub-strokecase0207,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,2720,17.1417,6,,,,
+sub-strokecase0208,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,2764,42.8366,17,,,,
+sub-strokecase0209,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,3362,21.1876,48,,,,
+sub-strokecase0210,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1618,25.0758,10,,,,
+sub-strokecase0211,A,0,112x112x72,2.0,2.0,2.0,0.008,7494,59.952,24,Philips Medical Systems,3.0,M,78
+sub-strokecase0212,A,0,112x112x72,2.0,2.0,2.0,0.008,138,1.104,4,Philips Medical Systems,3.0,F,74
+sub-strokecase0213,A,0,112x112x73,2.0,2.0,2.0,0.008,804,6.432,7,Philips Medical Systems,3.0,F,72
+sub-strokecase0214,A,0,112x112x72,2.0,2.0,2.0,0.008,337,2.696,5,Philips Medical Systems,3.0,M,66
+sub-strokecase0215,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,2365,14.9044,5,,,,
+sub-strokecase0216,A,0,112x112x73,2.0,2.0,2.0,0.008,140,1.12,8,Philips Medical Systems,3.0,M,
+sub-strokecase0217,A,0,112x112x72,2.0,2.0,2.0,0.008,6090,48.72,7,Philips Medical Systems,3.0,M,68
+sub-strokecase0218,A,0,112x112x73,2.0,2.0,2.0,0.008,1674,13.392,22,Philips Medical Systems,3.0,M,
+sub-strokecase0219,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,847,13.1268,3,,,,
+sub-strokecase0220,A,0,112x112x72,2.0,2.0,2.0,0.008,680,5.44,3,Philips Medical Systems,3.0,M,70
+sub-strokecase0221,A,0,112x112x73,2.0,2.0,2.0,0.008,11862,94.896,6,Philips Medical Systems,3.0,F,52
+sub-strokecase0222,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,26019,163.9739,4,,,,
+sub-strokecase0223,A,0,112x112x72,2.0,2.0,2.0,0.008,17435,139.48,6,Philips Medical Systems,3.0,F,50
+sub-strokecase0224,A,0,112x112x73,2.0,2.0,2.0,0.008,2447,19.576,13,Philips Medical Systems,3.0,F,
+sub-strokecase0225,A,0,112x112x72,2.0,2.0,2.0,0.008,330,2.64,15,Philips Medical Systems,3.0,M,82
+sub-strokecase0226,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,428,6.6332,7,,,,
+sub-strokecase0227,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,547,8.4774,2,,,,
+sub-strokecase0228,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,706,10.9416,64,,,,
+sub-strokecase0229,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,3351,21.1183,46,,,,
+sub-strokecase0230,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,17091,107.7089,7,,,,
+sub-strokecase0231,A,0,112x112x72,2.0,2.0,2.0,0.008,4085,32.68,5,Philips Medical Systems,3.0,M,83
+sub-strokecase0232,B1,1,128x128x30,1.7969,1.7969,4.8,0.01549805,182,2.8206,2,,,,
+sub-strokecase0233,A,0,112x112x72,2.0,2.0,2.0,0.008,8,0.064,1,Philips Medical Systems,3.0,F,77
+sub-strokecase0234,A,0,112x112x72,2.0,2.0,2.0,0.008,29,0.232,3,Philips Medical Systems,3.0,M,65
+sub-strokecase0235,A,0,112x112x72,2.0,2.0,2.0,0.008,1502,12.016,13,Philips Medical Systems,3.0,F,79
+sub-strokecase0236,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,4444,28.0065,43,,,,
+sub-strokecase0237,A,0,112x112x72,2.0,2.0,2.0,0.008,9906,79.248,8,Philips Medical Systems,3.0,F,78
+sub-strokecase0238,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,2042,12.8689,28,,,,
+sub-strokecase0239,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,1090,16.8929,6,,,,
+sub-strokecase0240,A,0,112x112x73,2.0,2.0,2.0,0.008,26551,212.408,1,Philips Medical Systems,3.0,F,
+sub-strokecase0241,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,224,3.4716,5,,,,
+sub-strokecase0242,A,0,112x112x72,2.0,2.0,2.0,0.008,900,7.2,2,Philips Medical Systems,3.0,F,90
+sub-strokecase0243,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,1301,8.199,2,,,,
+sub-strokecase0244,A,0,112x112x73,2.0,2.0,2.0,0.008,4339,34.712,14,Philips Medical Systems,3.0,F,60
+sub-strokecase0245,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,967,14.9866,1,,,,
+sub-strokecase0246,A,0,112x112x72,2.0,2.0,2.0,0.008,27032,216.256,11,Philips Medical Systems,3.0,F,86
+sub-strokecase0247,A,0,112x112x72,2.0,2.0,2.0,0.008,2282,18.256,15,Philips Medical Systems,3.0,F,85
+sub-strokecase0248,B2,1,192x192x30,1.1458,1.1458,4.8,0.00630208,2541,16.0136,126,,,,
+sub-strokecase0249,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,726,11.2516,1,,,,
+sub-strokecase0250,B1,1,128x128x25,1.7969,1.7969,4.8,0.01549805,518,8.028,7,,,,

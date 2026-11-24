@@ -1,0 +1,6 @@
+# nnU-Net default recipe, full 1000-epoch schedule, corrected labels, DWI+ADC
+nnunet_long 0
+nnunet_long 1
+nnunet_long 2
+nnunet_long 3
+nnunet_long 4

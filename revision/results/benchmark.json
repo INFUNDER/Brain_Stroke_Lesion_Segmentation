@@ -1,0 +1,154 @@
+{
+ "meta": {
+  "host": "gpu01",
+  "torch": "2.4.1+cu121",
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "num_epochs": 1000,
+  "iterations_per_epoch": 250
+ },
+ "models": [
+  {
+   "model": "nnunet",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres",
+   "trainer": "StrokeTrainer",
+   "parameters_M": 16.548456,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "train_s_per_iter": 0.16775836683809758,
+   "train_peak_mem_GB": 5.319433689117432,
+   "loss_first": 1.2380658388137817,
+   "loss_last": 0.11173003911972046,
+   "loss_finite": true,
+   "hours_per_fold_gpu_only": 11.649886585978997,
+   "infer_s_per_patch": 0.00993011686950922,
+   "infer_peak_mem_GB": 0.5003724098205566,
+   "infer_output_finite": true,
+   "status": "ok"
+  },
+  {
+   "model": "resenc_m",
+   "plans": "nnUNetResEncUNetMPlans",
+   "configuration": "3d_fullres",
+   "trainer": "StrokeTrainer",
+   "parameters_M": 62.810792,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "train_s_per_iter": 0.17122582532465458,
+   "train_peak_mem_GB": 6.617560386657715,
+   "loss_first": 0.9068818092346191,
+   "loss_last": 0.10779368877410889,
+   "loss_finite": true,
+   "hours_per_fold_gpu_only": 11.890682314212123,
+   "infer_s_per_patch": 0.009386694990098476,
+   "infer_peak_mem_GB": 1.1035747528076172,
+   "infer_output_finite": true,
+   "status": "ok"
+  },
+  {
+   "model": "umamba_bot",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_umambabot",
+   "trainer": "StrokeTrainer",
+   "parameters_M": 22.572296,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "train_s_per_iter": 0.32883976455777886,
+   "train_peak_mem_GB": 11.096597671508789,
+   "loss_first": 1.4378468990325928,
+   "loss_last": 0.16112534701824188,
+   "loss_finite": true,
+   "hours_per_fold_gpu_only": 22.836094760956865,
+   "infer_s_per_patch": 0.028584867529571057,
+   "infer_peak_mem_GB": 0.6768007278442383,
+   "infer_output_finite": true,
+   "status": "ok"
+  },
+  {
+   "model": "omnimamba_nn",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_omnimamba",
+   "trainer": "StrokeTrainer",
+   "parameters_M": 22.746216,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "status": "out_of_memory"
+  },
+  {
+   "model": "omnimamba_orig",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_omnimamba_orig",
+   "trainer": "StrokeTrainerAdamWNoDS",
+   "parameters_M": 35.009794,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "status": "out_of_memory"
+  },
+  {
+   "model": "swinunetr",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_swinunetr",
+   "trainer": "StrokeTrainerAdamWNoDS",
+   "parameters_M": 62.188436,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "train_s_per_iter": 1.014534243568778,
+   "train_peak_mem_GB": 33.710270404815674,
+   "loss_first": 0.7848996520042419,
+   "loss_last": 0.5503042936325073,
+   "loss_finite": true,
+   "hours_per_fold_gpu_only": 70.45376691449847,
+   "infer_s_per_patch": 0.050224068388342855,
+   "infer_peak_mem_GB": 2.4549379348754883,
+   "infer_output_finite": true,
+   "status": "ok"
+  },
+  {
+   "model": "unetr",
+   "plans": "nnUNetPlans",
+   "configuration": "3d_fullres_unetr",
+   "trainer": "StrokeTrainerAdamWNoDS",
+   "parameters_M": 124.21853,
+   "batch_size": 8,
+   "patch_size": [
+    80,
+    96,
+    80
+   ],
+   "train_s_per_iter": 0.1802846796810627,
+   "train_peak_mem_GB": 5.711043357849121,
+   "loss_first": 0.7462341785430908,
+   "loss_last": 0.7270253896713257,
+   "loss_finite": true,
+   "hours_per_fold_gpu_only": 12.51976942229602,
+   "infer_s_per_patch": 0.02071456518024206,
+   "infer_peak_mem_GB": 2.0586137771606445,
+   "infer_output_finite": true,
+   "status": "ok"
+  }
+ ]
+}

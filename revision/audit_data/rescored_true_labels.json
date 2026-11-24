@@ -1,0 +1,227 @@
+[
+{
+"case": "sub-strokecase0004",
+"true_fg": 491,
+"old_fg": 491,
+"pred_fg": 419,
+"dice_true": 0.8153846153846154,
+"dice_old": 0.8153846153846154,
+"same": true
+},
+{
+"case": "sub-strokecase0039",
+"true_fg": 4059,
+"old_fg": 4059,
+"pred_fg": 4914,
+"dice_true": 0.8690515992421709,
+"dice_old": 0.8690515992421709,
+"same": true
+},
+{
+"case": "sub-strokecase0047",
+"true_fg": 11501,
+"old_fg": 11501,
+"pred_fg": 11271,
+"dice_true": 0.9385209906903215,
+"dice_old": 0.9385209906903215,
+"same": true
+},
+{
+"case": "sub-strokecase0051",
+"true_fg": 703,
+"old_fg": 703,
+"pred_fg": 591,
+"dice_true": 0.7820710973724884,
+"dice_old": 0.7820710973724884,
+"same": true
+},
+{
+"case": "sub-strokecase0055",
+"true_fg": 5721,
+"old_fg": 5721,
+"pred_fg": 5552,
+"dice_true": 0.9426062272686951,
+"dice_old": 0.9426062272686951,
+"same": true
+},
+{
+"case": "sub-strokecase0071",
+"true_fg": 399,
+"old_fg": 399,
+"pred_fg": 341,
+"dice_true": 0.8216216216216217,
+"dice_old": 0.8216216216216217,
+"same": true
+},
+{
+"case": "sub-strokecase0080",
+"true_fg": 142,
+"old_fg": 142,
+"pred_fg": 96,
+"dice_true": 0.7815126050420168,
+"dice_old": 0.7815126050420168,
+"same": true
+},
+{
+"case": "sub-strokecase0093",
+"true_fg": 72,
+"old_fg": 72,
+"pred_fg": 104,
+"dice_true": 0.75,
+"dice_old": 0.75,
+"same": true
+},
+{
+"case": "sub-strokecase0121",
+"true_fg": 930,
+"old_fg": 930,
+"pred_fg": 880,
+"dice_true": 0.9104972375690608,
+"dice_old": 0.9104972375690608,
+"same": true
+},
+{
+"case": "sub-strokecase0128",
+"true_fg": 218,
+"old_fg": 218,
+"pred_fg": 94,
+"dice_true": 0.5256410256410257,
+"dice_old": 0.5256410256410257,
+"same": true
+},
+{
+"case": "sub-strokecase0131",
+"true_fg": 2308,
+"old_fg": 2308,
+"pred_fg": 4574,
+"dice_true": 0.6187154896832316,
+"dice_old": 0.6187154896832316,
+"same": true
+},
+{
+"case": "sub-strokecase0133",
+"true_fg": 768,
+"old_fg": 768,
+"pred_fg": 647,
+"dice_true": 0.7533568904593639,
+"dice_old": 0.7533568904593639,
+"same": true
+},
+{
+"case": "sub-strokecase0136",
+"true_fg": 44,
+"old_fg": 44,
+"pred_fg": 17,
+"dice_true": 0.06557377049180328,
+"dice_old": 0.06557377049180328,
+"same": true
+},
+{
+"case": "sub-strokecase0170",
+"true_fg": 0,
+"old_fg": 0,
+"pred_fg": 0,
+"dice_true": NaN,
+"dice_old": NaN,
+"same": true
+},
+{
+"case": "sub-strokecase0172",
+"true_fg": 1269,
+"old_fg": 1269,
+"pred_fg": 1187,
+"dice_true": 0.7793159609120521,
+"dice_old": 0.7793159609120521,
+"same": true
+},
+{
+"case": "sub-strokecase0175",
+"true_fg": 556,
+"old_fg": 0,
+"pred_fg": 526,
+"dice_true": 0.8687615526802218,
+"dice_old": NaN,
+"same": false
+},
+{
+"case": "sub-strokecase0187",
+"true_fg": 1303,
+"old_fg": 0,
+"pred_fg": 1332,
+"dice_true": 0.8166982922201138,
+"dice_old": NaN,
+"same": false
+},
+{
+"case": "sub-strokecase0204",
+"true_fg": 3060,
+"old_fg": 3060,
+"pred_fg": 3478,
+"dice_true": 0.8553074334658917,
+"dice_old": 0.8553074334658917,
+"same": true
+},
+{
+"case": "sub-strokecase0205",
+"true_fg": 8180,
+"old_fg": 8180,
+"pred_fg": 6936,
+"dice_true": 0.865572902884361,
+"dice_old": 0.865572902884361,
+"same": true
+},
+{
+"case": "sub-strokecase0212",
+"true_fg": 253,
+"old_fg": 253,
+"pred_fg": 125,
+"dice_true": 0.5026455026455027,
+"dice_old": 0.5026455026455027,
+"same": true
+},
+{
+"case": "sub-strokecase0222",
+"true_fg": 36345,
+"old_fg": 36345,
+"pred_fg": 40102,
+"dice_true": 0.906431907072874,
+"dice_old": 0.906431907072874,
+"same": true
+},
+{
+"case": "sub-strokecase0226",
+"true_fg": 1571,
+"old_fg": 0,
+"pred_fg": 1174,
+"dice_true": 0.7642987249544626,
+"dice_old": NaN,
+"same": false
+},
+{
+"case": "sub-strokecase0235",
+"true_fg": 2675,
+"old_fg": 2675,
+"pred_fg": 2185,
+"dice_true": 0.8168724279835391,
+"dice_old": 0.8168724279835391,
+"same": true
+},
+{
+"case": "sub-strokecase0244",
+"true_fg": 7714,
+"old_fg": 7714,
+"pred_fg": 7275,
+"dice_true": 0.8035225832277003,
+"dice_old": 0.8035225832277003,
+"same": true
+},
+{
+"case": "sub-strokecase0246",
+"true_fg": 48016,
+"old_fg": 48016,
+"pred_fg": 48472,
+"dice_true": 0.9590829947765526,
+"dice_old": 0.9590829947765526,
+"same": true
+}
+]

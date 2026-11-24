@@ -1,0 +1,21 @@
+#!/bin/bash
+#PBS -N sb_bench
+#PBS -q gpu
+#PBS -l select=1:ncpus=4:ngpus=1:mem=32gb
+#PBS -l walltime=03:00:00
+#PBS -j oe
+# Cost benchmark on synthetic inputs (no patient data, no result folders).
+#   qsub -o revision/logs/bench_x.log -v MODELS="omnimamba_nn omnimamba_orig",NEED_GB=40,OUT=revision/results/benchmark_x.json revision/hpc/bench.pbs
+source "$PBS_O_WORKDIR/revision/hpc/common.sh"
+
+GPUS="$(wait_for_gpus 1 "${NEED_GB:-20}" "${MAX_WAIT_MIN:-120}")"
+[ -z "$GPUS" ] && { echo "BENCH_FAILED: no GPU with ${NEED_GB:-20} GB free"; exit 1; }
+export CUDA_VISIBLE_DEVICES="$GPUS"
+echo "using GPU $GPUS:"; nvidia-smi --query-gpu=index,memory.used,utilization.gpu --format=csv,noheader -i "$GPUS"
+
+python -m strokebench.benchmark --models ${MODELS:-nnunet} --fallback-batches ${FALLBACK:-4 2} \
+    --out "${OUT:-revision/results/benchmark_extra.json}" --note "shared GPU, see log for neighbour load" \
+    2>&1 | grep -vE "Warning|warn\(|autocast\(|^$|#####|Please cite|Isensee|Using device"
+echo "BENCH_EXIT=${PIPESTATUS[0]}"
+nvidia-smi --query-gpu=index,memory.used,utilization.gpu --format=csv,noheader -i "$GPUS"
+echo "BENCH_DONE $(date '+%F %T')"

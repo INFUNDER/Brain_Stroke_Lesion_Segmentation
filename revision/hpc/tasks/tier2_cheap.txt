@@ -1,0 +1,15 @@
+# Tier 2 (cheap): protocol-shift folds 5-7 for the low-cost models, then a second independent run of the reference (noise floor)
+nnunet 5
+nnunet 6
+nnunet 7
+resenc_m 5
+resenc_m 6
+resenc_m 7
+umamba_bot 5
+umamba_bot 6
+umamba_bot 7
+nnunet 0 dwi_adc StrokeTrainerReplicate2
+nnunet 1 dwi_adc StrokeTrainerReplicate2
+nnunet 2 dwi_adc StrokeTrainerReplicate2
+nnunet 3 dwi_adc StrokeTrainerReplicate2
+nnunet 4 dwi_adc StrokeTrainerReplicate2
