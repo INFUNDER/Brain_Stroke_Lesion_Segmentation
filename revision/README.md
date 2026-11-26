@@ -64,7 +64,13 @@ python -m strokebench.analyze                       # backbone comparison -> res
 python -m strokebench.shift                         # protocol shift -> results/shift_dwi_adc.json
 python -m strokebench.volumes --models nnunet       # conformal volume intervals -> results/volumes_<model>.json
 python -m strokebench.adaptive                      # adaptive intervals -> results/adaptive_volumes.json
+python -m strokebench.adc                           # ADC unit scale per subject -> data/adc_scale.csv
+python -m strokebench.variance                      # E4c Dice variance: subject vs backbone -> results/variance_dwi_adc.json
+python -m strokebench.physics_rule                  # physics-rule baselines -> results/physics_rules_dwi_adc.json
+python -m strokebench.counterfactual --make-inputs  # E2 edited inputs; predictions via hpc/counterfactual.pbs, then --score
 ```
+
+`container/` holds the ISLES 2022 hidden-test submission (E5a): `prepare_model.sh` copies the frozen nnU-Net folds into `container/model/` (not version-controlled), and the image is built with Docker on a machine where Docker is available.
 
 ## Cluster notes
 

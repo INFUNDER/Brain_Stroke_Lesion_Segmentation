@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -N sb_cf
+#PBS -q gpu
+#PBS -l select=1:ncpus=10:ngpus=1:mem=40gb
+#PBS -j oe
+# E2 physics counterfactuals: prediction only (PROTOCOL.md, amendment 2026-11-26, second entry).
+#
+#   qsub -N sb_cf -l select=1:ncpus=10:ngpus=1:mem=40gb:host=gpu01 -o revision/logs/job_cf.log \
+#        -v MODELS="nnunet" revision/hpc/counterfactual.pbs
+#
+# Inputs must exist first:  python -m strokebench.counterfactual --make-inputs
+# Safe to resubmit: finished predictions are skipped.
+source "$PBS_O_WORKDIR/revision/hpc/common.sh"
+exec > >(tee -a "$PBS_O_WORKDIR/revision/logs/live_${PBS_JOBNAME:-job}_${PBS_JOBID%%.*}.log") 2>&1
+gpu="$(wait_for_gpus 1 "${NEED_GB:-16}" "${MAX_WAIT_MIN:-720}")" || { echo "no GPU free"; exit 1; }
+echo "[$(date '+%F %T')] counterfactual predictions for: ${MODELS:-nnunet} on GPU $gpu"
+CUDA_VISIBLE_DEVICES="$gpu" python -m strokebench.counterfactual --predict --models ${MODELS:-nnunet} < /dev/null
+python -m strokebench.counterfactual --score < /dev/null
+echo "JOB_FINISHED status=$? $(date '+%F %T')"
