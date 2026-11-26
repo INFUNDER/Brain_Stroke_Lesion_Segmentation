@@ -11,9 +11,16 @@ StrokeTrainerAdamWNoDS   AdamW without deep supervision.
 The "...Debug" classes run 2 tiny epochs and write to their own result folders;
 they exist only to smoke-test the pipeline.
 
+Every trainer stops a run whose mean training loss for an epoch is not finite, before any
+checkpoint of that epoch is written, and leaves `diverged.json` in the run folder; such a run
+is never resumed (PROTOCOL.md, amendment of 2026-11-26).
+
 This file is linked into nnU-Net's trainer folder by revision/env/setup_env.sh so
 that the standard nnUNetv2_train / nnUNetv2_predict commands can find the classes.
 """
+import math
+
+import numpy as np
 import torch
 from batchgenerators.utilities.file_and_folder_operations import isfile, join, load_json, save_json
 
@@ -21,6 +28,12 @@ from nnunetv2.training.lr_scheduler.polylr import PolyLRScheduler
 from nnunetv2.training.nnUNetTrainer.nnUNetTrainer import nnUNetTrainer
 
 from strokebench import config
+
+DIVERGED_MARKER = "diverged.json"
+
+
+class TrainingDiverged(RuntimeError):
+    """The mean training loss of an epoch was not finite."""
 
 
 class WarmupPolyLRScheduler(PolyLRScheduler):
@@ -51,7 +64,9 @@ class StrokeTrainer(nnUNetTrainer):
         self.save_every = 10
 
     def on_train_start(self):
-        """Record the schedule once, and refuse to resume a run under a different one."""
+        """Record the schedule once, and refuse to resume a run under a different one or a diverged run."""
+        if isfile(join(self.output_folder, DIVERGED_MARKER)):
+            raise TrainingDiverged(f"{self.output_folder} diverged earlier and must be restarted from scratch, not resumed")
         super().on_train_start()
         marker = join(self.output_folder, "schedule.json")
         schedule = {"num_epochs": int(self.num_epochs), "iterations_per_epoch": int(self.num_iterations_per_epoch),
@@ -64,6 +79,15 @@ class StrokeTrainer(nnUNetTrainer):
                 raise RuntimeError(f"schedule changed since this run started: {previous} -> {schedule}")
         else:
             save_json(schedule, marker)
+
+    def on_train_epoch_end(self, train_outputs):
+        super().on_train_epoch_end(train_outputs)
+        # computed from the step outputs, not read back from the logger, whose API differs between nnU-Net versions
+        loss = float(np.mean([np.mean(o["loss"]) for o in train_outputs]))
+        if not math.isfinite(loss):
+            save_json({"epoch": int(self.current_epoch), "train_loss": str(loss)}, join(self.output_folder, DIVERGED_MARKER))
+            self.print_to_log_file(f"training loss is {loss} at epoch {self.current_epoch}: run diverged, stopping")
+            raise TrainingDiverged(f"non-finite training loss at epoch {self.current_epoch}")
 
 
 class StrokeTrainerNoDS(StrokeTrainer):

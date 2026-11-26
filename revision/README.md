@@ -55,7 +55,7 @@ Score a model's out-of-fold predictions once all five folds are done:
 python -m strokebench.evaluate --model nnunet_long
 ```
 
-Task lists in `hpc/tasks/`: `ref_nnunet_long.txt`, `main_a.txt`, `main_b.txt` (the three high-cost models) and `ref_resenc_long.txt` were all submitted on 2026-11-15; `tier2_cheap.txt` (protocol-shift folds and replicate runs for the low-cost models) on 2026-11-18; `tier2_omnimamba.txt` (OmniMamba protocol-shift folds 5-7) on 2026-11-22.
+Task lists in `hpc/tasks/`: `ref_nnunet_long.txt`, `main_a.txt`, `main_b.txt` (the three high-cost models) and `ref_resenc_long.txt` were all submitted on 2026-11-15; `tier2_cheap.txt` (protocol-shift folds and replicate runs for the low-cost models) on 2026-11-18; `tier2_omnimamba.txt` (OmniMamba protocol-shift folds 5-7) on 2026-11-22; `rerun_diverged.txt` (restart of `omnimamba_orig` fold 0, which diverged at epoch 23; see the PROTOCOL.md amendment of 2026-11-26) on 2026-11-26.
 
 Analyses (after scoring):
 

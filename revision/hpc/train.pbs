@@ -57,6 +57,10 @@ EOF
           --out-dir revision/results/per_fold < /dev/null 2>&1 | grep -E "^fold" | cut -c1-400
       return 0
     fi
+    if [ -f "$out/diverged.json" ]; then
+      echo "[$(date '+%F %T')] DIVERGED $model fold $fold: $(cat "$out/diverged.json"). Not resumed; see PROTOCOL.md (2026-11-26)"
+      return 1
+    fi
     echo "[$(date '+%F %T')] FAILED $model fold $fold try $try: $(grep -E 'Error|error' "$PBS_O_WORKDIR/revision/logs/train_${model}_${dataset}_${trainer}_f${fold}.try${try}.log" | tail -1 | cut -c1-200)"
     sleep 300
   done
